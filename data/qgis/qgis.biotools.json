@@ -29,7 +29,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-13T18:30:13Z",
+    "lastUpdate": "2021-01-13T18:30:13.260730Z",
     "name": "QGIS",
     "owner": "Pub2Tools",
     "publication": [
@@ -56,6 +56,5 @@
             "term": "Statistics and probability",
             "uri": "http://edamontology.org/topic_2269"
         }
-    ],
-    "validated": 1
+    ]
 }

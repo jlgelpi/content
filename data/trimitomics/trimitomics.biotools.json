@@ -100,7 +100,6 @@
                         "name": "Riesgo A."
                     }
                 ],
-                "citationCount": 7,
                 "date": "2019-09-01T00:00:00Z",
                 "journal": "Molecular Ecology Resources",
                 "title": "Trimitomics: An efficient pipeline for mitochondrial assembly from transcriptomic reads in nonmodel species"
@@ -127,6 +126,5 @@
             "term": "RNA-Seq",
             "uri": "http://edamontology.org/topic_3170"
         }
-    ],
-    "validated": 1
+    ]
 }

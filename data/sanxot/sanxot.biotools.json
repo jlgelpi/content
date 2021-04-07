@@ -96,7 +96,7 @@
                         "name": "Vazquez J."
                     }
                 ],
-                "citationCount": 15,
+                "citationCount": 11,
                 "date": "2019-05-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "SanXoT: A modular and versatile package for the quantitative analysis of high-throughput proteomics experiments"
@@ -124,6 +124,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

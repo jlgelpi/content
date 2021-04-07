@@ -30,7 +30,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2020-12-19T15:16:39Z",
+    "lastUpdate": "2020-12-19T15:16:39.467668Z",
     "name": "seqQscorer",
     "owner": "Pub2Tools",
     "publication": [
@@ -51,6 +51,5 @@
             "term": "Data mining",
             "uri": "http://edamontology.org/topic_3473"
         }
-    ],
-    "validated": 1
+    ]
 }

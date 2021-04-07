@@ -40,7 +40,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-23T14:18:53Z",
+    "lastUpdate": "2021-01-23T14:18:53.263209Z",
     "license": "MIT",
     "link": [
         {
@@ -86,6 +86,5 @@
             "term": "Zoology",
             "uri": "http://edamontology.org/topic_3500"
         }
-    ],
-    "validated": 1
+    ]
 }

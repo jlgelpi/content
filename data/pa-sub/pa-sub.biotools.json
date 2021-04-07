@@ -94,7 +94,7 @@
                         "name": "Eisner R."
                     }
                 ],
-                "citationCount": 282,
+                "citationCount": 268,
                 "date": "2004-03-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "Predicting subcellular localization of proteins using machine-learned classifiers"
@@ -139,7 +139,7 @@
                         "name": "Meeuwis D."
                     }
                 ],
-                "citationCount": 84,
+                "citationCount": 77,
                 "date": "2004-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Proteome Analyst: Custom predictions with explanations in a web-based tool for high-throughput proteome annotations"
@@ -171,6 +171,5 @@
             "term": "Model organisms",
             "uri": "http://edamontology.org/topic_0621"
         }
-    ],
-    "validated": 1
+    ]
 }

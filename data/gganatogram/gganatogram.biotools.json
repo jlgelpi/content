@@ -83,7 +83,7 @@
                         "name": "Maag J.L.V."
                     }
                 ],
-                "citationCount": 16,
+                "citationCount": 7,
                 "date": "2018-01-01T00:00:00Z",
                 "journal": "F1000Research",
                 "title": "Gganatogram: An R package for modular visualisation of anatograms and tissues based on ggplot2 [version 2; peer review: 2 approved]"
@@ -112,6 +112,5 @@
             "term": "Drug metabolism",
             "uri": "http://edamontology.org/topic_3375"
         }
-    ],
-    "validated": 1
+    ]
 }

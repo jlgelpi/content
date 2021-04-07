@@ -1,6 +1,6 @@
 {
     "accessibility": "Open access",
-    "additionDate": "2021-01-21T10:22:33Z",
+    "additionDate": "2021-01-21T10:22:32.716630",
     "biotoolsCURIE": "biotools:r-gada",
     "biotoolsID": "r-gada",
     "collectionID": [
@@ -23,7 +23,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-21T10:22:33Z",
+    "lastUpdate": "2021-01-21T10:22:32.718469Z",
     "license": "MIT",
     "maturity": "Mature",
     "name": "R-GADA",
@@ -35,6 +35,5 @@
     "owner": "brgelab",
     "toolType": [
         "Library"
-    ],
-    "validated": 1
+    ]
 }

@@ -85,7 +85,7 @@
                         "name": "Baldi P."
                     }
                 ],
-                "citationCount": 602,
+                "citationCount": 566,
                 "date": "2005-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "SCRATCH: A protein structure and structural feature prediction server"
@@ -121,6 +121,5 @@
             "term": "Protein secondary structure",
             "uri": "http://edamontology.org/topic_3542"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -70,7 +70,7 @@
                         "name": "Backofen R."
                     }
                 ],
-                "citationCount": 86,
+                "citationCount": 68,
                 "date": "2006-08-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "INFO-RNA - A fast approach to inverse RNA folding"
@@ -88,7 +88,7 @@
                         "name": "Backofen R."
                     }
                 ],
-                "citationCount": 23,
+                "citationCount": 20,
                 "date": "2007-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "INFO-RNA-a server for fast inverse RNA folding satisfying sequence constraints"

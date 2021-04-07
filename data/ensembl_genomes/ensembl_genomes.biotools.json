@@ -180,7 +180,7 @@
                         "name": "Staines D.M."
                     }
                 ],
-                "citationCount": 323,
+                "citationCount": 240,
                 "date": "2016-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl Genomes 2016: More genomes, more complexity"
@@ -198,6 +198,5 @@
             "term": "Genomics",
             "uri": "http://edamontology.org/topic_0622"
         }
-    ],
-    "validated": 1
+    ]
 }

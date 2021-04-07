@@ -67,7 +67,7 @@
                         "name": "Aerts S."
                     }
                 ],
-                "citationCount": 40,
+                "citationCount": 24,
                 "date": "2019-05-01T00:00:00Z",
                 "journal": "Nature Methods",
                 "title": "cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data"
@@ -94,7 +94,6 @@
             "uri": "http://edamontology.org/topic_0769"
         }
     ],
-    "validated": 1,
     "version": [
         "2.1.0"
     ]

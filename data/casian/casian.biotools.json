@@ -96,7 +96,6 @@
                         "name": "Skupin A."
                     }
                 ],
-                "citationCount": 3,
                 "date": "2018-09-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "CaSiAn: A calcium signaling analyzer tool"
@@ -118,6 +117,5 @@
             "term": "Literature and language",
             "uri": "http://edamontology.org/topic_3068"
         }
-    ],
-    "validated": 1
+    ]
 }

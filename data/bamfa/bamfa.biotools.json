@@ -36,7 +36,7 @@
     "language": [
         "MATLAB"
     ],
-    "lastUpdate": "2020-12-03T10:34:45Z",
+    "lastUpdate": "2020-12-03T10:34:45.137501Z",
     "name": "BaMFA",
     "owner": "Kigaard",
     "publication": [
@@ -67,7 +67,7 @@
                         "name": "Lahdesmaki H."
                     }
                 ],
-                "citationCount": 3,
+                "citationCount": 2,
                 "date": "2019-07-15T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "Bayesian metabolic flux analysis reveals intracellular flux couplings"
@@ -89,6 +89,5 @@
             "term": "Statistics and probability",
             "uri": "http://edamontology.org/topic_2269"
         }
-    ],
-    "validated": 1
+    ]
 }

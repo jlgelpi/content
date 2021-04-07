@@ -19,12 +19,8 @@
             "name": "ELIXIR-ITA-TORVERGATA"
         },
         {
-            "email": "livia.perfetto@fht.org",
-            "name": "Livia Perfetto",
-            "typeEntity": "Person",
-            "typeRole": [
-                "Primary contact"
-            ]
+            "email": "luana.licata@uniroma2.it",
+            "name": "Luana Licata"
         },
         {
             "name": "Gianni Cesareni",
@@ -34,8 +30,7 @@
             ]
         },
         {
-            "email": "luana.licata@uniroma2.it",
-            "name": "Luana Licata",
+            "name": "Marta Iannuccelli",
             "typeEntity": "Person",
             "typeRole": [
                 "Contributor"
@@ -49,7 +44,7 @@
             ]
         },
         {
-            "name": "Marta Iannuccelli",
+            "name": "Livia Perfetto",
             "typeEntity": "Person",
             "typeRole": [
                 "Contributor"
@@ -134,7 +129,7 @@
         }
     ],
     "homepage": "https://disnor.uniroma2.it/",
-    "lastUpdate": "2021-03-31T08:29:07Z",
+    "lastUpdate": "2020-06-16T10:55:24Z",
     "license": "CC-BY-NC-4.0",
     "maturity": "Emerging",
     "name": "DISNOR",
@@ -161,6 +156,5 @@
             "term": "Rare diseases",
             "uri": "http://edamontology.org/topic_3325"
         }
-    ],
-    "validated": 1
+    ]
 }

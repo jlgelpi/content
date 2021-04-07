@@ -29,7 +29,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-17T15:18:36Z",
+    "lastUpdate": "2020-12-17T15:18:35.974167Z",
     "name": "DeepAttentionPan",
     "owner": "Pub2Tools",
     "publication": [
@@ -57,6 +57,5 @@
             "term": "Genetic variation",
             "uri": "http://edamontology.org/topic_0199"
         }
-    ],
-    "validated": 1
+    ]
 }

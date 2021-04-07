@@ -145,7 +145,7 @@
                         "name": "Jensen O.N."
                     }
                 ],
-                "citationCount": 68,
+                "citationCount": 47,
                 "date": "2013-09-06T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "Assessment and improvement of statistical tools for comparative proteomics analysis of sparse data sets with few experimental replicates"
@@ -177,7 +177,6 @@
             "uri": "http://edamontology.org/topic_3308"
         }
     ],
-    "validated": 1,
     "version": [
         "1"
     ]

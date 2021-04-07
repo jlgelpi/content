@@ -49,7 +49,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-19T10:20:29Z",
+    "lastUpdate": "2021-01-19T10:20:29.217011Z",
     "license": "MIT",
     "name": "2passtools",
     "owner": "Kigaard",
@@ -82,6 +82,5 @@
             "term": "Model organisms",
             "uri": "http://edamontology.org/topic_0621"
         }
-    ],
-    "validated": 1
+    ]
 }

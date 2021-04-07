@@ -43,7 +43,7 @@
         "MATLAB",
         "C++"
     ],
-    "lastUpdate": "2021-01-19T10:54:54Z",
+    "lastUpdate": "2021-01-19T10:54:53.845269Z",
     "license": "MIT",
     "name": "4DNvestigator",
     "operatingSystem": [
@@ -79,6 +79,5 @@
             "term": "Genotype and phenotype",
             "uri": "http://edamontology.org/topic_0625"
         }
-    ],
-    "validated": 1
+    ]
 }

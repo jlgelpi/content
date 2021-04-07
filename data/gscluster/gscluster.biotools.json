@@ -110,7 +110,7 @@
                         "name": "Nam D."
                     }
                 ],
-                "citationCount": 3,
+                "citationCount": 1,
                 "date": "2019-05-09T00:00:00Z",
                 "journal": "BMC Genomics",
                 "title": "GScluster: Network-weighted gene-set clustering analysis"
@@ -138,6 +138,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -99,7 +99,6 @@
                         "name": "Li B."
                     }
                 ],
-                "citationCount": 3,
                 "date": "2019-09-01T00:00:00Z",
                 "journal": "Molecular Ecology Resources",
                 "title": "Inference of individual ploidy level using codominant markers"
@@ -126,6 +125,5 @@
             "term": "Plant biology",
             "uri": "http://edamontology.org/topic_0780"
         }
-    ],
-    "validated": 1
+    ]
 }

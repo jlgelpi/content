@@ -29,7 +29,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-13T16:26:06Z",
+    "lastUpdate": "2021-01-13T16:26:06.245203Z",
     "name": "Phenomenal",
     "owner": "zsmag19",
     "publication": [
@@ -50,6 +50,5 @@
             "term": "Imaging",
             "uri": "http://edamontology.org/topic_3382"
         }
-    ],
-    "validated": 1
+    ]
 }

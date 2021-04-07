@@ -65,7 +65,7 @@
                         "name": "Zdobnov E.M."
                     }
                 ],
-                "citationCount": 180,
+                "citationCount": 107,
                 "date": "2010-05-13T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "The Newick utilities: high-throughput phylogenetic tree processing in the UNIX shell"
@@ -91,6 +91,5 @@
             "term": "Computer science",
             "uri": "http://edamontology.org/topic_3316"
         }
-    ],
-    "validated": 1
+    ]
 }

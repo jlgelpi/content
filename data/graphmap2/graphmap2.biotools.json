@@ -29,7 +29,7 @@
     "language": [
         "C++"
     ],
-    "lastUpdate": "2020-12-07T08:02:48Z",
+    "lastUpdate": "2020-12-07T08:02:47.910233Z",
     "license": "MIT",
     "link": [
         {
@@ -62,6 +62,5 @@
             "term": "RNA splicing",
             "uri": "http://edamontology.org/topic_3320"
         }
-    ],
-    "validated": 1
+    ]
 }

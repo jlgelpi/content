@@ -48,7 +48,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-16T13:05:04Z",
+    "lastUpdate": "2021-01-16T13:05:03.669676Z",
     "license": "BSD-3-Clause",
     "link": [
         {
@@ -98,6 +98,5 @@
             "term": "Literature and language",
             "uri": "http://edamontology.org/topic_3068"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -176,10 +176,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-CZ"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "elixirNode": [
         "Czech Republic"
@@ -275,7 +272,7 @@
         "JavaScript",
         "Java"
     ],
-    "lastUpdate": "2020-10-26T11:16:43Z",
+    "lastUpdate": "2020-06-16T10:55:28Z",
     "license": "Proprietary",
     "maturity": "Mature",
     "name": "FireProt",
@@ -319,7 +316,7 @@
                         "name": "Damborsky J."
                     }
                 ],
-                "citationCount": 32,
+                "citationCount": 25,
                 "date": "2017-07-03T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "FireProt: web server for automated design of thermostable proteins"

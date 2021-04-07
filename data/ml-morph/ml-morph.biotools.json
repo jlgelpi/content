@@ -11,7 +11,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-29T09:29:01Z",
+    "lastUpdate": "2020-12-29T09:29:01.186422Z",
     "name": "ML-morph",
     "owner": "Pub2Tools",
     "publication": [
@@ -35,6 +35,5 @@
             "term": "Phylogeny",
             "uri": "http://edamontology.org/topic_0084"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -29,7 +29,7 @@
     "language": [
         "Perl"
     ],
-    "lastUpdate": "2020-12-16T14:49:13Z",
+    "lastUpdate": "2020-12-16T14:49:12.682977Z",
     "name": "Clirc",
     "owner": "Pub2Tools",
     "publication": [
@@ -54,7 +54,7 @@
                         "name": "Xie Y."
                     }
                 ],
-                "citationCount": 3,
+                "citationCount": 2,
                 "date": "2020-01-01T00:00:00Z",
                 "journal": "Genes",
                 "title": "Large-scale profiling of RBP-circRNA interactions from public CLIP-seq datasets"
@@ -87,6 +87,5 @@
             "term": "RNA splicing",
             "uri": "http://edamontology.org/topic_3320"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -21,7 +21,7 @@
     "language": [
         "MATLAB"
     ],
-    "lastUpdate": "2020-12-02T16:38:44Z",
+    "lastUpdate": "2020-12-02T16:38:43.977937Z",
     "name": "autoGCMSDataAnal",
     "owner": "Pub2Tools",
     "publication": [
@@ -61,7 +61,7 @@
                         "name": "She Y."
                     }
                 ],
-                "citationCount": 5,
+                "citationCount": 2,
                 "date": "2020-04-12T00:00:00Z",
                 "journal": "Journal of Chromatography A",
                 "title": "A comprehensive automatic data analysis strategy for gas chromatography-mass spectrometry based untargeted metabolomics"
@@ -82,6 +82,5 @@
             "term": "Software engineering",
             "uri": "http://edamontology.org/topic_3372"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -46,7 +46,7 @@
         }
     ],
     "homepage": "https://www.epa.gov/benmap",
-    "lastUpdate": "2021-01-07T19:25:56Z",
+    "lastUpdate": "2021-01-07T19:25:56.377120Z",
     "name": "BenMAP",
     "owner": "Kigaard",
     "publication": [
@@ -108,6 +108,5 @@
             "term": "Chemistry",
             "uri": "http://edamontology.org/topic_3314"
         }
-    ],
-    "validated": 1
+    ]
 }

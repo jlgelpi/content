@@ -183,7 +183,7 @@
                         "name": "Rehm H.L."
                     }
                 ],
-                "citationCount": 198,
+                "citationCount": 179,
                 "date": "2015-10-01T00:00:00Z",
                 "journal": "Human Mutation",
                 "title": "The Matchmaker Exchange: A Platform for Rare Disease Gene Discovery"
@@ -216,6 +216,5 @@
             "term": "Data mining",
             "uri": "http://edamontology.org/topic_3473"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -88,7 +88,7 @@
                         "name": "Richardson S."
                     }
                 ],
-                "citationCount": 19,
+                "citationCount": 18,
                 "date": "2007-11-12T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "BGX: A bioconductor package for the Bayesian integrated analysis of Affymetrix GeneChips"

@@ -33,11 +33,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-ITA-BOLOGNA",
-            "savo"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "elixirCommunity": [
         "3D-BioInfo"
@@ -100,7 +96,7 @@
     "language": [
         "C"
     ],
-    "lastUpdate": "2021-03-31T16:08:54Z",
+    "lastUpdate": "2021-01-27T14:05:44.925958Z",
     "name": "BCov",
     "operatingSystem": [
         "Linux",

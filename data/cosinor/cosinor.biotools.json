@@ -28,7 +28,7 @@
         "MATLAB",
         "SQL"
     ],
-    "lastUpdate": "2020-12-19T21:42:35Z",
+    "lastUpdate": "2020-12-19T21:42:35.207050Z",
     "link": [
         {
             "type": [
@@ -76,6 +76,5 @@
             "term": "Biology",
             "uri": "http://edamontology.org/topic_3070"
         }
-    ],
-    "validated": 1
+    ]
 }

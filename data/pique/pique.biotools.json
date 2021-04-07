@@ -43,7 +43,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-28T20:42:29Z",
+    "lastUpdate": "2020-12-28T20:42:28.558893Z",
     "license": "BSD-3-Clause",
     "link": [
         {
@@ -90,6 +90,5 @@
             "term": "Gene structure",
             "uri": "http://edamontology.org/topic_0114"
         }
-    ],
-    "validated": 1
+    ]
 }

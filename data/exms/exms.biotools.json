@@ -145,7 +145,7 @@
                         "name": "Englander S.W."
                     }
                 ],
-                "citationCount": 89,
+                "citationCount": 67,
                 "date": "2011-11-01T00:00:00Z",
                 "journal": "Journal of the American Society for Mass Spectrometry",
                 "title": "ExMS: Data analysis for HX-MS experiments"
@@ -165,6 +165,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

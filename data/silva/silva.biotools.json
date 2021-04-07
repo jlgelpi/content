@@ -372,7 +372,7 @@
                         "name": "Glockner F.O."
                     }
                 ],
-                "citationCount": 7566,
+                "citationCount": 4318,
                 "date": "2013-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "The SILVA ribosomal RNA gene database project: Improved data processing and web-based tools"
@@ -417,7 +417,7 @@
                         "name": "Glockner F.O."
                     }
                 ],
-                "citationCount": 795,
+                "citationCount": 418,
                 "date": "2014-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "The SILVA and \"all-species Living Tree Project (LTP)\" taxonomic frameworks"
@@ -453,7 +453,7 @@
                         "name": "Glockner F.O."
                     }
                 ],
-                "citationCount": 3754,
+                "citationCount": 3278,
                 "date": "2007-12-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "SILVA: A comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB"
@@ -477,7 +477,7 @@
                         "name": "Glockner F.O."
                     }
                 ],
-                "citationCount": 1618,
+                "citationCount": 1221,
                 "date": "2012-07-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "SINA: Accurate high-throughput multiple sequence alignment of ribosomal RNA genes"
@@ -525,7 +525,7 @@
                         "name": "Ludwig W."
                     }
                 ],
-                "citationCount": 156,
+                "citationCount": 53,
                 "date": "2017-11-10T00:00:00Z",
                 "journal": "Journal of Biotechnology",
                 "title": "25 years of serving the community with ribosomal RNA gene reference databases and tools"
@@ -556,6 +556,5 @@
             "term": "Taxonomy",
             "uri": "http://edamontology.org/topic_0637"
         }
-    ],
-    "validated": 1
+    ]
 }

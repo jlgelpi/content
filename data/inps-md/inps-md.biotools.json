@@ -53,11 +53,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-ITA-BOLOGNA",
-            "savo"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "elixirCommunity": [
         "3D-BioInfo"
@@ -174,7 +170,7 @@
         }
     ],
     "homepage": "http://inpsmd.biocomp.unibo.it",
-    "lastUpdate": "2021-03-31T16:08:25Z",
+    "lastUpdate": "2021-01-27T14:04:59.237640Z",
     "maturity": "Mature",
     "name": "INPS-MD",
     "operatingSystem": [

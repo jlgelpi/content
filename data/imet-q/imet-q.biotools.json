@@ -76,7 +76,7 @@
                         "name": "Sung T.-Y."
                     }
                 ],
-                "citationCount": 8,
+                "citationCount": 6,
                 "date": "2016-01-01T00:00:00Z",
                 "journal": "PLoS ONE",
                 "title": "IMet-Q: A user-friendly tool for label-free metabolomics quantitation using dynamic peak-width determination"
@@ -96,6 +96,5 @@
             "term": "Metabolomics",
             "uri": "http://edamontology.org/topic_3172"
         }
-    ],
-    "validated": 1
+    ]
 }

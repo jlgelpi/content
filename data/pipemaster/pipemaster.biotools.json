@@ -36,7 +36,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-23T16:40:46Z",
+    "lastUpdate": "2021-01-23T16:40:46.332478Z",
     "name": "PipeMaster",
     "owner": "zsmag19",
     "publication": [
@@ -57,6 +57,5 @@
             "term": "Evolutionary biology",
             "uri": "http://edamontology.org/topic_3299"
         }
-    ],
-    "validated": 1
+    ]
 }

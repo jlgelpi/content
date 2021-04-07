@@ -49,11 +49,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-ITA-BOLOGNA",
-            "savo"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "function": [
         {
@@ -94,7 +90,7 @@
         }
     ],
     "homepage": "http://schloro.biocomp.unibo.it",
-    "lastUpdate": "2021-03-31T16:07:15Z",
+    "lastUpdate": "2021-01-27T11:46:00.921663Z",
     "maturity": "Mature",
     "name": "SChloro",
     "operatingSystem": [

@@ -37,7 +37,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-16T10:29:24Z",
+    "lastUpdate": "2020-12-16T10:29:23.526136Z",
     "name": "SalMotifDB",
     "owner": "Pub2Tools",
     "publication": [
@@ -93,6 +93,5 @@
             "term": "Gene regulation",
             "uri": "http://edamontology.org/topic_0204"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -36,7 +36,7 @@
     "language": [
         "Perl"
     ],
-    "lastUpdate": "2021-01-23T08:07:36Z",
+    "lastUpdate": "2021-01-23T08:07:36.205125Z",
     "license": "MIT",
     "link": [
         {
@@ -74,6 +74,5 @@
             "term": "Enzymes",
             "uri": "http://edamontology.org/topic_0821"
         }
-    ],
-    "validated": 1
+    ]
 }

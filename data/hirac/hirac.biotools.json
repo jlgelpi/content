@@ -21,7 +21,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-10T08:52:13Z",
+    "lastUpdate": "2020-12-10T08:52:12.635214Z",
     "license": "GPL-3.0",
     "name": "HIRAC",
     "owner": "Pub2Tools",
@@ -46,6 +46,5 @@
             "term": "Model organisms",
             "uri": "http://edamontology.org/topic_0621"
         }
-    ],
-    "validated": 1
+    ]
 }

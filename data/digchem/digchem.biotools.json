@@ -64,7 +64,6 @@
                         "name": "Lee H."
                     }
                 ],
-                "citationCount": 2,
                 "date": "2019-05-01T00:00:00Z",
                 "journal": "PLoS Computational Biology",
                 "title": "DigChem: Identification of disease-gene-chemical relationships from medline abstracts"
@@ -92,6 +91,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

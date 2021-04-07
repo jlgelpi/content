@@ -29,7 +29,7 @@
     "language": [
         "C++"
     ],
-    "lastUpdate": "2020-12-02T19:58:38Z",
+    "lastUpdate": "2020-12-02T19:58:38.213734Z",
     "license": "MIT",
     "name": "gcsa2",
     "owner": "Pub2Tools",
@@ -55,7 +55,7 @@
                         "name": "Durbin R."
                     }
                 ],
-                "citationCount": 8,
+                "citationCount": 6,
                 "date": "2020-01-15T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "Haplotype-aware graph indexes"
@@ -65,6 +65,5 @@
     ],
     "toolType": [
         "Command-line tool"
-    ],
-    "validated": 1
+    ]
 }

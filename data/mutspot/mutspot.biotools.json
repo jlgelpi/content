@@ -25,7 +25,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-29T11:00:52Z",
+    "lastUpdate": "2020-12-29T11:00:52.121648Z",
     "name": "MutSpot",
     "owner": "Pub2Tools",
     "publication": [
@@ -49,6 +49,5 @@
             "term": "Oncology",
             "uri": "http://edamontology.org/topic_2640"
         }
-    ],
-    "validated": 1
+    ]
 }

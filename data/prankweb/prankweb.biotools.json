@@ -58,7 +58,7 @@
     "language": [
         "JavaScript"
     ],
-    "lastUpdate": "2020-10-26T11:00:09Z",
+    "lastUpdate": "2020-10-26T11:00:09.208447Z",
     "license": "Apache-2.0",
     "link": [
         {
@@ -104,7 +104,7 @@
                         "name": "Hoksza D."
                     }
                 ],
-                "citationCount": 23,
+                "citationCount": 8,
                 "date": "2019-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "PrankWeb: a web server for ligand binding site prediction and visualization"
@@ -129,6 +129,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

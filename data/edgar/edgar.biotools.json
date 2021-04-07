@@ -185,7 +185,7 @@
                         "name": "Casadio R."
                     }
                 ],
-                "citationCount": 16,
+                "citationCount": 4,
                 "date": "2017-01-01T00:00:00Z",
                 "journal": "BMC Genomics",
                 "title": "eDGAR: A database of disease-gene associations with annotated relationships among genes"
@@ -212,6 +212,5 @@
             "term": "Rare diseases",
             "uri": "http://edamontology.org/topic_3325"
         }
-    ],
-    "validated": 1
+    ]
 }

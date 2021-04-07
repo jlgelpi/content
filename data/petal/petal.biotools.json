@@ -32,7 +32,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-23T09:18:19Z",
+    "lastUpdate": "2021-01-23T09:18:19.295579Z",
     "name": "PETAL",
     "owner": "zsmag19",
     "publication": [
@@ -54,6 +54,5 @@
             "term": "Software engineering",
             "uri": "http://edamontology.org/topic_3372"
         }
-    ],
-    "validated": 1
+    ]
 }

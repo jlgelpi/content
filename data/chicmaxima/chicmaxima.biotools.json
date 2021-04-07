@@ -127,6 +127,5 @@
             "term": "ChIP-seq",
             "uri": "http://edamontology.org/topic_3169"
         }
-    ],
-    "validated": 1
+    ]
 }

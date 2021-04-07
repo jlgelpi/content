@@ -43,11 +43,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-ITA-BOLOGNA",
-            "savo"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "function": [
         {
@@ -97,7 +93,7 @@
         }
     ],
     "homepage": "http://tppred3.biocomp.unibo.it/tppred3",
-    "lastUpdate": "2021-03-31T16:05:59Z",
+    "lastUpdate": "2021-01-27T11:43:58.877413Z",
     "name": "TPpred 3.0",
     "operatingSystem": [
         "Linux",

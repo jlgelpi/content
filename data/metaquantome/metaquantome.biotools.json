@@ -193,7 +193,7 @@
                         "name": "Jagtap P.D."
                     }
                 ],
-                "citationCount": 7,
+                "citationCount": 4,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "Molecular and Cellular Proteomics",
                 "title": "MetaQuantome: An integrated, quantitative metaproteomics approach reveals connections between taxonomy and protein function in complex microbiomes"
@@ -213,7 +213,6 @@
             "uri": "http://edamontology.org/topic_0121"
         }
     ],
-    "validated": 1,
     "version": [
         "1.0"
     ]

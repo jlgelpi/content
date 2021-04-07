@@ -37,7 +37,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-07T09:18:21Z",
+    "lastUpdate": "2020-12-07T09:18:21.000759Z",
     "name": "Hass",
     "owner": "Pub2Tools",
     "publication": [
@@ -62,7 +62,7 @@
                         "name": "Hormaza J.I."
                     }
                 ],
-                "citationCount": 4,
+                "citationCount": 1,
                 "date": "2019-12-01T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "Genome-Wide SNP discovery and genomic characterization in avocado (Persea americana Mill.)"
@@ -95,6 +95,5 @@
             "term": "Mapping",
             "uri": "http://edamontology.org/topic_0102"
         }
-    ],
-    "validated": 1
+    ]
 }

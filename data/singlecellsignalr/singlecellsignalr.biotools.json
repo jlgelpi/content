@@ -25,7 +25,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-16T13:47:18Z",
+    "lastUpdate": "2021-01-16T13:47:18.230300Z",
     "name": "SingleCellSignalR",
     "owner": "Pub2Tools",
     "publication": [
@@ -50,6 +50,5 @@
             "term": "RNA-Seq",
             "uri": "http://edamontology.org/topic_3170"
         }
-    ],
-    "validated": 1
+    ]
 }

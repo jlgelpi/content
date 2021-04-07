@@ -80,7 +80,7 @@
                         "name": "Hochstrasser D."
                     }
                 ],
-                "citationCount": 730,
+                "citationCount": 659,
                 "date": "1993-01-01T00:00:00Z",
                 "journal": "ELECTROPHORESIS",
                 "title": "The focusing positions of polypeptides in immobilized pH gradients can be predicted from their amino acid sequences"
@@ -106,6 +106,5 @@
             "term": "Function analysis",
             "uri": "http://edamontology.org/topic_1775"
         }
-    ],
-    "validated": 1
+    ]
 }

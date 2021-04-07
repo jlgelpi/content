@@ -29,7 +29,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-24T08:57:33Z",
+    "lastUpdate": "2020-12-24T08:57:32.573623Z",
     "license": "Apache-2.0",
     "name": "spectrum_utils",
     "owner": "Pub2Tools",
@@ -51,6 +51,5 @@
             "term": "Metabolomics",
             "uri": "http://edamontology.org/topic_3172"
         }
-    ],
-    "validated": 1
+    ]
 }

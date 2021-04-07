@@ -79,7 +79,7 @@
                         "name": "Kollmar M."
                     }
                 ],
-                "citationCount": 19,
+                "citationCount": 15,
                 "date": "2011-06-30T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "Predicting mutually exclusive spliced exons based on exon length, splice site and reading frame conservation, and exon sequence homology"
@@ -106,7 +106,7 @@
                         "name": "Waack S."
                     }
                 ],
-                "citationCount": 80,
+                "citationCount": 55,
                 "date": "2008-06-13T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "Scipio: Using protein sequences to determine the precise exon/intron structures of genes and their orthologs in closely related species"
@@ -136,7 +136,7 @@
                         "name": "Kollmar M."
                     }
                 ],
-                "citationCount": 19,
+                "citationCount": 18,
                 "date": "2008-09-18T00:00:00Z",
                 "journal": "BMC Genomics",
                 "title": "WebScipio: An online tool for the determination of gene structures using protein sequences"
@@ -157,7 +157,7 @@
                         "name": "Kollmar M."
                     }
                 ],
-                "citationCount": 11,
+                "citationCount": 9,
                 "date": "2013-01-01T00:00:00Z",
                 "journal": "Nucleic acids research",
                 "title": "WebScipio: Reconstructing alternative splice variants of eukaryotic proteins."

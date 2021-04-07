@@ -97,7 +97,7 @@
                         "name": "Winkler R."
                     }
                 ],
-                "citationCount": 18,
+                "citationCount": 11,
                 "date": "2015-01-01T00:00:00Z",
                 "journal": "PeerJ",
                 "title": "An evolving computational platformfor biological mass spectrometry: Workflows, statistics and data mining with MASSyPup64"
@@ -119,6 +119,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

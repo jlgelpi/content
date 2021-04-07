@@ -37,7 +37,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-16T16:45:29Z",
+    "lastUpdate": "2021-01-16T16:45:29.089296Z",
     "license": "MIT",
     "link": [
         {
@@ -75,6 +75,5 @@
             "term": "Mapping",
             "uri": "http://edamontology.org/topic_0102"
         }
-    ],
-    "validated": 1
+    ]
 }

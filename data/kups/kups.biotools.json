@@ -76,7 +76,7 @@
                         "name": "Dermyer P."
                     }
                 ],
-                "citationCount": 25,
+                "citationCount": 23,
                 "date": "2011-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "KUPS: Constructing datasets of interacting and non-interacting protein pairs with associated attributions"
@@ -108,6 +108,5 @@
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
         }
-    ],
-    "validated": 1
+    ]
 }

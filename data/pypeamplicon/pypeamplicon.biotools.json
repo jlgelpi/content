@@ -29,7 +29,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-11T14:15:41Z",
+    "lastUpdate": "2020-12-11T14:15:41.201303Z",
     "license": "GPL-3.0",
     "name": "PypeAmplicon",
     "owner": "Pub2Tools",
@@ -51,6 +51,5 @@
             "term": "Genotype and phenotype",
             "uri": "http://edamontology.org/topic_0625"
         }
-    ],
-    "validated": 1
+    ]
 }

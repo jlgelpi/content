@@ -41,7 +41,7 @@
         }
     ],
     "homepage": "http://www.hpppi.iicb.res.in/APODHIN/home.html",
-    "lastUpdate": "2021-01-24T18:49:59Z",
+    "lastUpdate": "2021-01-24T18:49:59.439718Z",
     "name": "APODHIN",
     "owner": "Kigaard",
     "publication": [
@@ -73,6 +73,5 @@
             "term": "Transcriptomics",
             "uri": "http://edamontology.org/topic_3308"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -84,7 +84,7 @@
                         "name": "Bansal S."
                     }
                 ],
-                "citationCount": 4,
+                "citationCount": 1,
                 "date": "2019-12-01T00:00:00Z",
                 "journal": "Scientific Data",
                 "title": "A multi-species repository of social networks"
@@ -112,6 +112,5 @@
             "term": "Ecology",
             "uri": "http://edamontology.org/topic_0610"
         }
-    ],
-    "validated": 1
+    ]
 }

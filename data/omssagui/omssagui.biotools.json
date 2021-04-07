@@ -86,7 +86,7 @@
                         "name": "Graham D.R."
                     }
                 ],
-                "citationCount": 12,
+                "citationCount": 11,
                 "date": "2008-06-01T00:00:00Z",
                 "journal": "Proteomics",
                 "title": "OMSSAGUI: An open-source user interface component to configure and run the OMSSA search engine"
@@ -104,6 +104,5 @@
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
         }
-    ],
-    "validated": 1
+    ]
 }

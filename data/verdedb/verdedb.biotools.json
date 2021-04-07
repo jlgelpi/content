@@ -8,7 +8,7 @@
         "type": "public"
     },
     "homepage": "http://www.verdedb.org",
-    "lastUpdate": "2021-01-02T14:53:23Z",
+    "lastUpdate": "2021-01-02T14:53:22.700948Z",
     "name": "verdedb",
     "owner": "Pub2Tools",
     "publication": [
@@ -25,6 +25,5 @@
             "term": "Model organisms",
             "uri": "http://edamontology.org/topic_0621"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -89,7 +89,7 @@
                         "name": "Yang J.-M."
                     }
                 ],
-                "citationCount": 42,
+                "citationCount": 40,
                 "date": "2007-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "3D-partner: A web server to infer interacting partners and binding models"
@@ -121,6 +121,5 @@
             "term": "Sequence composition, complexity and repeats",
             "uri": "http://edamontology.org/topic_0157"
         }
-    ],
-    "validated": 1
+    ]
 }

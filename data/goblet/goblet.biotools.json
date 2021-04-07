@@ -85,7 +85,7 @@
                         "name": "Hennig S."
                     }
                 ],
-                "citationCount": 71,
+                "citationCount": 70,
                 "date": "2004-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "GOblet: A platform for Gene Ontology annotation of anonymous sequence data"
@@ -106,7 +106,7 @@
                         "name": "Lehrach H."
                     }
                 ],
-                "citationCount": 75,
+                "citationCount": 73,
                 "date": "2003-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Automated gene ontology annotation for anonymous sequence data"
@@ -138,6 +138,5 @@
             "term": "Sequencing",
             "uri": "http://edamontology.org/topic_3168"
         }
-    ],
-    "validated": 1
+    ]
 }

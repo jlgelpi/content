@@ -25,7 +25,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-29T09:35:06Z",
+    "lastUpdate": "2020-12-29T09:35:05.542340Z",
     "link": [
         {
             "type": [
@@ -57,6 +57,5 @@
             "term": "Workflows",
             "uri": "http://edamontology.org/topic_0769"
         }
-    ],
-    "validated": 1
+    ]
 }

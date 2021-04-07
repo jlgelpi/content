@@ -95,7 +95,7 @@
                         "name": "Leshkowitz D."
                     }
                 ],
-                "citationCount": 18,
+                "citationCount": 8,
                 "date": "2019-03-25T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "UTAP: User-friendly Transcriptome Analysis Pipeline"
@@ -119,6 +119,5 @@
             "term": "Transcriptomics",
             "uri": "http://edamontology.org/topic_3308"
         }
-    ],
-    "validated": 1
+    ]
 }

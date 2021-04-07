@@ -89,7 +89,7 @@
                         "name": "Engelmann J.C."
                     }
                 ],
-                "citationCount": 8,
+                "citationCount": 4,
                 "date": "2019-05-03T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "FastqPuri: High-performance preprocessing of RNA-seq data"
@@ -117,6 +117,5 @@
             "term": "Gene transcripts",
             "uri": "http://edamontology.org/topic_3512"
         }
-    ],
-    "validated": 1
+    ]
 }

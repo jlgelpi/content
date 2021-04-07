@@ -1,6 +1,6 @@
 {
     "accessibility": "Open access",
-    "additionDate": "2021-01-21T10:16:52Z",
+    "additionDate": "2021-01-21T10:16:51.595573",
     "biotoolsCURIE": "biotools:invclust",
     "biotoolsID": "invclust",
     "collectionID": [
@@ -23,7 +23,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-21T10:16:52Z",
+    "lastUpdate": "2021-01-21T10:16:51.598817Z",
     "license": "MIT",
     "maturity": "Mature",
     "name": "invClust",
@@ -45,6 +45,5 @@
             "term": "Structural variation",
             "uri": "http://edamontology.org/topic_3175"
         }
-    ],
-    "validated": 1
+    ]
 }

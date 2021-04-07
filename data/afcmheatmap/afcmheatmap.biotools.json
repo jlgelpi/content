@@ -33,7 +33,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-01T15:28:07Z",
+    "lastUpdate": "2020-12-01T15:28:07.315427Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -67,6 +67,5 @@
             "term": "Bioinformatics",
             "uri": "http://edamontology.org/topic_0091"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -79,7 +79,7 @@
                         "name": "Vandin F."
                     }
                 ],
-                "citationCount": 4,
+                "citationCount": 1,
                 "date": "2019-05-01T00:00:00Z",
                 "journal": "PLoS Computational Biology",
                 "title": "Efficient algorithms to discover alterations with complementary functional association in cancer"
@@ -107,6 +107,5 @@
             "term": "Genetic variation",
             "uri": "http://edamontology.org/topic_0199"
         }
-    ],
-    "validated": 1
+    ]
 }

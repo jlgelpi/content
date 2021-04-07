@@ -97,7 +97,7 @@
                         "name": "Feolo M."
                     }
                 ],
-                "citationCount": 214,
+                "citationCount": 185,
                 "date": "2014-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "NCBI's database of genotypes and phenotypes: DbGaP"
@@ -130,6 +130,5 @@
             "term": "Rare diseases",
             "uri": "http://edamontology.org/topic_3325"
         }
-    ],
-    "validated": 1
+    ]
 }

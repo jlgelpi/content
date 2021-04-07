@@ -29,7 +29,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-09T12:41:28Z",
+    "lastUpdate": "2020-12-09T12:41:28.228994Z",
     "name": "ALACD",
     "owner": "Pub2Tools",
     "publication": [
@@ -51,7 +51,7 @@
                         "name": "Wang Y."
                     }
                 ],
-                "citationCount": 3,
+                "citationCount": 2,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "PLoS Computational Biology",
                 "title": "Associating lncRNAs with small molecules via bilevel optimization reveals cancer-related lncRNAs"
@@ -80,6 +80,5 @@
             "term": "Gene expression",
             "uri": "http://edamontology.org/topic_0203"
         }
-    ],
-    "validated": 1
+    ]
 }

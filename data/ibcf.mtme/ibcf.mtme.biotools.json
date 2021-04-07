@@ -103,7 +103,7 @@
                         "name": "Crossa J."
                     }
                 ],
-                "citationCount": 3,
+                "citationCount": 1,
                 "date": "2018-01-01T00:00:00Z",
                 "journal": "Plant Genome",
                 "title": "An R package for multitrait and multienvironment data with the item-based collaborative filtering algorithm"
@@ -130,6 +130,5 @@
             "term": "Plant biology",
             "uri": "http://edamontology.org/topic_0780"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -42,7 +42,7 @@
         }
     ],
     "homepage": "https://citrusgreening.org/",
-    "lastUpdate": "2021-01-07T08:35:39Z",
+    "lastUpdate": "2021-01-07T08:35:39.444737Z",
     "link": [
         {
             "type": [
@@ -94,6 +94,5 @@
             "term": "Gene expression",
             "uri": "http://edamontology.org/topic_0203"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -33,7 +33,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-28T10:06:02Z",
+    "lastUpdate": "2020-12-28T10:06:02.049481Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -77,6 +77,5 @@
             "term": "Medicine",
             "uri": "http://edamontology.org/topic_3303"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -78,7 +78,7 @@
                         "name": "Hazout S."
                     }
                 ],
-                "citationCount": 23,
+                "citationCount": 22,
                 "date": "2006-01-15T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "'Protein peeling': An approach for splitting a 3D protein structure into compact fragments"
@@ -102,7 +102,7 @@
                         "name": "de Brevern A.G."
                     }
                 ],
-                "citationCount": 12,
+                "citationCount": 11,
                 "date": "2006-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Protein Peeling 2: A web server to convert protein structures into series of protein units"
@@ -120,7 +120,7 @@
                         "name": "de Brevern A.G."
                     }
                 ],
-                "citationCount": 7,
+                "citationCount": 6,
                 "date": "2011-01-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "Protein peeling 3D: New tools for analyzing protein structures"

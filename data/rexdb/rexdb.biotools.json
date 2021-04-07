@@ -1,6 +1,6 @@
 {
     "accessibility": "Open access",
-    "additionDate": "2020-10-01T08:03:40Z",
+    "additionDate": "2020-10-01T08:03:40.322068",
     "biotoolsCURIE": "biotools:rexdb",
     "biotoolsID": "rexdb",
     "confidence_flag": "tool",
@@ -17,10 +17,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-CZ"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "elixirNode": [
         "Czech Republic"
@@ -29,7 +26,7 @@
         "Data"
     ],
     "homepage": "http://repeatexplorer.org/?page_id=918",
-    "lastUpdate": "2020-11-03T06:10:51Z",
+    "lastUpdate": "2020-10-01T08:03:40.323006Z",
     "license": "Not licensed",
     "link": [
         {
@@ -61,7 +58,7 @@
                         "name": "MacAs J."
                     }
                 ],
-                "citationCount": 43,
+                "citationCount": 32,
                 "date": "2019-01-03T00:00:00Z",
                 "journal": "Mobile DNA",
                 "title": "Systematic survey of plant LTR-retrotransposons elucidates phylogenetic relationships of their polyprotein domains and provides a reference for element classification"
@@ -75,6 +72,5 @@
     ],
     "toolType": [
         "Database portal"
-    ],
-    "validated": 1
+    ]
 }

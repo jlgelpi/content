@@ -108,7 +108,7 @@
         "Python",
         "JavaScript"
     ],
-    "lastUpdate": "2021-01-11T10:34:37Z",
+    "lastUpdate": "2021-01-11T10:34:37.005499Z",
     "license": "Apache-2.0",
     "maturity": "Mature",
     "name": "BoostDM",
@@ -156,6 +156,5 @@
             "term": "Oncology",
             "uri": "http://edamontology.org/topic_2640"
         }
-    ],
-    "validated": 1
+    ]
 }

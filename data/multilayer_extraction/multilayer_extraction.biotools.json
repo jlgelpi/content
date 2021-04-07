@@ -36,7 +36,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-29T10:49:54Z",
+    "lastUpdate": "2020-12-29T10:49:54.428990Z",
     "name": "Multilayer Extraction",
     "owner": "Pub2Tools",
     "publication": [
@@ -47,6 +47,5 @@
     ],
     "toolType": [
         "Command-line tool"
-    ],
-    "validated": 1
+    ]
 }

@@ -32,10 +32,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "brgelab"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "function": [
         {
@@ -67,7 +64,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-11T10:41:11Z",
+    "lastUpdate": "2018-12-10T12:59:00Z",
     "license": "MIT",
     "link": [
         {

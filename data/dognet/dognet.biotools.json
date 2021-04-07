@@ -87,7 +87,7 @@
                         "name": "Lempitsky V."
                     }
                 ],
-                "citationCount": 3,
+                "citationCount": 2,
                 "date": "2019-05-01T00:00:00Z",
                 "journal": "PLoS Computational Biology",
                 "title": "DoGNet: A deep architecture for synapse detection in multiplexed fluorescence images"
@@ -115,6 +115,5 @@
             "term": "Light microscopy",
             "uri": "http://edamontology.org/topic_3385"
         }
-    ],
-    "validated": 1
+    ]
 }

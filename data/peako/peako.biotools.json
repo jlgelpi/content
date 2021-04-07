@@ -30,7 +30,7 @@
         "Shell",
         "Python"
     ],
-    "lastUpdate": "2021-01-05T10:25:32Z",
+    "lastUpdate": "2021-01-05T10:25:31.533270Z",
     "link": [
         {
             "type": [
@@ -62,6 +62,5 @@
             "term": "ChIP-on-chip",
             "uri": "http://edamontology.org/topic_3179"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -25,7 +25,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-10T14:02:37Z",
+    "lastUpdate": "2021-01-10T14:02:36.947001Z",
     "link": [
         {
             "type": [
@@ -54,6 +54,5 @@
             "term": "Toxicology",
             "uri": "http://edamontology.org/topic_2840"
         }
-    ],
-    "validated": 1
+    ]
 }

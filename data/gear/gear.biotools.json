@@ -44,7 +44,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-22T18:03:24Z",
+    "lastUpdate": "2021-01-22T18:03:23.884265Z",
     "license": "MIT",
     "name": "geaR",
     "owner": "Niclaskn",
@@ -73,6 +73,5 @@
             "term": "Sequencing",
             "uri": "http://edamontology.org/topic_3168"
         }
-    ],
-    "validated": 1
+    ]
 }

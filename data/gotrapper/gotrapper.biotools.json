@@ -63,7 +63,6 @@
                         "name": "Shanak S."
                     }
                 ],
-                "citationCount": 1,
                 "date": "2019-01-11T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "GOTrapper: A tool to navigate through branches of gene ontology hierarchy"
@@ -91,6 +90,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

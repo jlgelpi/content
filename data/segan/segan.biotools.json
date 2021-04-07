@@ -18,7 +18,7 @@
         }
     ],
     "homepage": "https://github.com/vivitsai/SEGAN",
-    "lastUpdate": "2021-01-16T13:16:47Z",
+    "lastUpdate": "2021-01-16T13:16:46.531955Z",
     "name": "SEGAN",
     "owner": "Pub2Tools",
     "publication": [
@@ -43,6 +43,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

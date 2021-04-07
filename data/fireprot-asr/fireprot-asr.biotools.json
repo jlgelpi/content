@@ -125,10 +125,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-CZ"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "elixirNode": [
         "Czech Republic"
@@ -216,7 +213,7 @@
         "Java",
         "Python"
     ],
-    "lastUpdate": "2020-10-26T11:16:43Z",
+    "lastUpdate": "2020-06-16T10:55:28Z",
     "license": "Proprietary",
     "maturity": "Emerging",
     "name": "FireProt ASR",

@@ -25,7 +25,7 @@
         "C++",
         "C"
     ],
-    "lastUpdate": "2020-12-16T10:27:10Z",
+    "lastUpdate": "2020-12-16T10:27:10.052150Z",
     "name": "SAIM",
     "owner": "Pub2Tools",
     "publication": [
@@ -65,6 +65,5 @@
             "term": "Transcription factors and regulatory sites",
             "uri": "http://edamontology.org/topic_0749"
         }
-    ],
-    "validated": 1
+    ]
 }

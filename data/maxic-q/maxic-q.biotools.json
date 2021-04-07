@@ -97,7 +97,7 @@
                         "name": "Hsu W.-L."
                     }
                 ],
-                "citationCount": 8,
+                "citationCount": 7,
                 "date": "2009-08-04T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "MaXIC-Q Web: A fully automated web service using statistical and computational methods for protein quantitation based on stable isotope labeling and LC-MS"
@@ -117,6 +117,5 @@
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
         }
-    ],
-    "validated": 1
+    ]
 }

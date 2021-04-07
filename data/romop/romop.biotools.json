@@ -39,7 +39,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-13T16:45:27Z",
+    "lastUpdate": "2021-01-13T16:45:26.642991Z",
     "license": "MIT",
     "link": [
         {
@@ -79,6 +79,5 @@
             "term": "Medicine",
             "uri": "http://edamontology.org/topic_3303"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -42,7 +42,7 @@
         "Python",
         "Shell"
     ],
-    "lastUpdate": "2021-01-23T15:43:57Z",
+    "lastUpdate": "2021-01-23T15:43:57.312686Z",
     "license": "MIT",
     "link": [
         {
@@ -80,6 +80,5 @@
             "term": "Molecular interactions, pathways and networks",
             "uri": "http://edamontology.org/topic_0602"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -61,7 +61,7 @@
                         "name": "von der Lieth C.-W."
                     }
                 ],
-                "citationCount": 75,
+                "citationCount": 71,
                 "date": "2004-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "GlycoFragment and GlycoSearchMS: Web tools to support the interpretation of mass spectra of complex carbohydrates"
@@ -81,6 +81,5 @@
             "term": "Carbohydrates",
             "uri": "http://edamontology.org/topic_0152"
         }
-    ],
-    "validated": 1
+    ]
 }

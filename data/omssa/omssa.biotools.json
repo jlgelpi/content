@@ -81,7 +81,7 @@
                         "name": "Bryant S.H."
                     }
                 ],
-                "citationCount": 1104,
+                "citationCount": 1009,
                 "date": "2004-09-01T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "Open mass spectrometry search algorithm"
@@ -101,6 +101,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

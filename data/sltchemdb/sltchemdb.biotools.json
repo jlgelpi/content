@@ -89,7 +89,6 @@
                         "name": "Singh H."
                     }
                 ],
-                "citationCount": 1,
                 "date": "2019-12-01T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "SLTChemDB: A database of chemical compounds present in Smokeless tobacco products"
@@ -118,6 +117,5 @@
             "term": "Compound libraries and screening",
             "uri": "http://edamontology.org/topic_3343"
         }
-    ],
-    "validated": 1
+    ]
 }

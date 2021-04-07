@@ -36,7 +36,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-25T09:00:19Z",
+    "lastUpdate": "2021-01-25T09:00:19.276115Z",
     "license": "Apache-2.0",
     "name": "GPcounts",
     "owner": "Niclaskn",
@@ -61,6 +61,5 @@
             "term": "Gene expression",
             "uri": "http://edamontology.org/topic_0203"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -88,7 +88,7 @@
                         "name": "Bahlo M."
                     }
                 ],
-                "citationCount": 6,
+                "citationCount": 4,
                 "date": "2016-08-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "XIBD: Software for inferring pairwise identity by descent on the X chromosome"
@@ -114,6 +114,5 @@
             "term": "Sequencing",
             "uri": "http://edamontology.org/topic_3168"
         }
-    ],
-    "validated": 1
+    ]
 }

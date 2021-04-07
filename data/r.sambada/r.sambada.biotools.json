@@ -98,7 +98,6 @@
                         "name": "Joost S."
                     }
                 ],
-                "citationCount": 3,
                 "date": "2019-09-01T00:00:00Z",
                 "journal": "Molecular Ecology Resources",
                 "title": "Rapid identification and interpretation of gene\u2013environment associations using the new R.SamBada landscape genomics pipeline"
@@ -125,6 +124,5 @@
             "term": "Mapping",
             "uri": "http://edamontology.org/topic_0102"
         }
-    ],
-    "validated": 1
+    ]
 }

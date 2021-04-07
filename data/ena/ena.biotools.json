@@ -150,7 +150,7 @@
                         "name": "Cochrane G."
                     }
                 ],
-                "citationCount": 45,
+                "citationCount": 26,
                 "date": "2017-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "European nucleotide archive in 2016"
@@ -179,6 +179,5 @@
             "term": "Nucleic acid sites, features and motifs",
             "uri": "http://edamontology.org/topic_3511"
         }
-    ],
-    "validated": 1
+    ]
 }

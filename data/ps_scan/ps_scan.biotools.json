@@ -84,7 +84,7 @@
                         "name": "Bairoch A."
                     }
                 ],
-                "citationCount": 363,
+                "citationCount": 345,
                 "date": "2002-01-01T00:00:00Z",
                 "journal": "Applied bioinformatics",
                 "title": "ScanProsite: a reference implementation of a PROSITE scanning tool."
@@ -103,6 +103,5 @@
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
         }
-    ],
-    "validated": 1
+    ]
 }

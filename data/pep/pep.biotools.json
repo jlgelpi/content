@@ -37,7 +37,7 @@
         "Python",
         "R"
     ],
-    "lastUpdate": "2021-01-23T08:13:53Z",
+    "lastUpdate": "2021-01-23T08:13:53.482380Z",
     "link": [
         {
             "type": [
@@ -70,6 +70,5 @@
             "term": "Sequencing",
             "uri": "http://edamontology.org/topic_3168"
         }
-    ],
-    "validated": 1
+    ]
 }

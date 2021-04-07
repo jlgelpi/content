@@ -28,7 +28,7 @@
     "language": [
         "MATLAB"
     ],
-    "lastUpdate": "2021-01-07T18:29:42Z",
+    "lastUpdate": "2021-01-07T18:29:41.682347Z",
     "name": "Zirmi",
     "owner": "Pub2Tools",
     "publication": [
@@ -51,6 +51,5 @@
             "term": "Transcription factors and regulatory sites",
             "uri": "http://edamontology.org/topic_0749"
         }
-    ],
-    "validated": 1
+    ]
 }

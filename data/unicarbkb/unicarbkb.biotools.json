@@ -135,7 +135,7 @@
                         "name": "Packer N.H."
                     }
                 ],
-                "citationCount": 98,
+                "citationCount": 89,
                 "date": "2014-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "UniCarbKB: Building a knowledge platform for glycoproteomics"
@@ -167,6 +167,5 @@
             "term": "Protein modifications",
             "uri": "http://edamontology.org/topic_0601"
         }
-    ],
-    "validated": 1
+    ]
 }

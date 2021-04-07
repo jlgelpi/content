@@ -30,7 +30,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2020-12-16T19:00:06Z",
+    "lastUpdate": "2020-12-16T19:00:05.785685Z",
     "license": "MIT",
     "name": "Cancer Predisposition Sequencing Reporter (CPSR)",
     "owner": "Pub2Tools",
@@ -64,6 +64,5 @@
             "term": "Biomarkers",
             "uri": "http://edamontology.org/topic_3360"
         }
-    ],
-    "validated": 1
+    ]
 }

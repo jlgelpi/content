@@ -26,7 +26,7 @@
         }
     ],
     "homepage": "https://shiny.imetalab.ca/pepFunk/",
-    "lastUpdate": "2021-01-09T12:01:08Z",
+    "lastUpdate": "2021-01-09T12:01:08.389931Z",
     "name": "pepFunk",
     "owner": "Pub2Tools",
     "publication": [
@@ -55,6 +55,5 @@
             "term": "Molecular interactions, pathways and networks",
             "uri": "http://edamontology.org/topic_0602"
         }
-    ],
-    "validated": 1
+    ]
 }

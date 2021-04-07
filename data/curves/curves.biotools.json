@@ -34,10 +34,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "marcopasi"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "function": [
         {
@@ -62,14 +59,14 @@
         }
     ],
     "homepage": "http://gbio-pbil.ibcp.fr/cgi/Curves_plus/",
-    "lastUpdate": "2020-11-26T10:43:27Z",
+    "lastUpdate": "2018-12-10T12:58:56Z",
     "name": "CURVES+",
     "operatingSystem": [
         "Linux",
         "Windows",
         "Mac"
     ],
-    "owner": "admin",
+    "owner": "ELIXIR-EE",
     "publication": [
         {
             "metadata": {
@@ -88,7 +85,7 @@
                         "name": "Lavery R."
                     }
                 ],
-                "citationCount": 117,
+                "citationCount": 82,
                 "date": "2011-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "CURVES+ web server for analyzing and visualizing the helical, backbone and groove parameters of nucleic acid structures"

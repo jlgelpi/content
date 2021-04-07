@@ -49,7 +49,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-16T10:32:00Z",
+    "lastUpdate": "2020-12-16T10:32:00.191295Z",
     "name": "SAMDUDE",
     "owner": "Pub2Tools",
     "publication": [
@@ -92,6 +92,5 @@
             "term": "Genomics",
             "uri": "http://edamontology.org/topic_0622"
         }
-    ],
-    "validated": 1
+    ]
 }

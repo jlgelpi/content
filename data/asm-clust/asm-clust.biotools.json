@@ -26,7 +26,7 @@
         "Bash",
         "Perl"
     ],
-    "lastUpdate": "2020-12-02T15:28:13Z",
+    "lastUpdate": "2020-12-02T15:28:13.098197Z",
     "name": "ASM-Clust",
     "owner": "Pub2Tools",
     "publication": [
@@ -55,6 +55,5 @@
             "term": "Taxonomy",
             "uri": "http://edamontology.org/topic_0637"
         }
-    ],
-    "validated": 1
+    ]
 }

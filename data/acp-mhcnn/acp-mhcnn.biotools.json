@@ -41,7 +41,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-19T12:50:43Z",
+    "lastUpdate": "2021-01-19T12:50:43.434035Z",
     "name": "ACP-MHCNN",
     "owner": "Kigaard",
     "publication": [
@@ -62,6 +62,5 @@
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
         }
-    ],
-    "validated": 1
+    ]
 }

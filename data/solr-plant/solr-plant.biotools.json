@@ -90,7 +90,7 @@
                         "name": "Sarkar I.N."
                     }
                 ],
-                "citationCount": 2,
+                "citationCount": 1,
                 "date": "2019-05-22T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "Solr-Plant: Efficient extraction of plant names from text"
@@ -118,6 +118,5 @@
             "term": "Agricultural science",
             "uri": "http://edamontology.org/topic_3810"
         }
-    ],
-    "validated": 1
+    ]
 }

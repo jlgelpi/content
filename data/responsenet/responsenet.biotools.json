@@ -84,7 +84,7 @@
                         "name": "Yeger-Lotem E."
                     }
                 ],
-                "citationCount": 20,
+                "citationCount": 15,
                 "date": "2013-01-01T00:00:00Z",
                 "journal": "Nucleic acids research",
                 "title": "ResponseNet2.0: Revealing signaling and regulatory pathways connecting your proteins and genes--now with human data."
@@ -114,7 +114,7 @@
                         "name": "Yeger-Lotem E."
                     }
                 ],
-                "citationCount": 58,
+                "citationCount": 49,
                 "date": "2011-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "ResponseNet: Revealing signaling and regulatory networks linking genetic and transcriptomic screening data"
@@ -147,6 +147,5 @@
             "term": "Humans",
             "uri": "http://edamontology.org/topic_2815"
         }
-    ],
-    "validated": 1
+    ]
 }

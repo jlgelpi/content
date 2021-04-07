@@ -95,7 +95,6 @@
                         "name": "Hach F."
                     }
                 ],
-                "citationCount": 7,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "LordFAST: Sensitive and fast alignment search tool for long noisy read sequencing data"
@@ -121,6 +120,5 @@
             "term": "Medicine",
             "uri": "http://edamontology.org/topic_3303"
         }
-    ],
-    "validated": 1
+    ]
 }

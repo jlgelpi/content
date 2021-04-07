@@ -85,7 +85,7 @@
         "type": "group"
     },
     "homepage": "https://biosimulators.org",
-    "lastUpdate": "2020-10-21T16:29:47Z",
+    "lastUpdate": "2020-10-21T16:29:46.648986Z",
     "license": "MIT",
     "link": [
         {
@@ -142,6 +142,5 @@
             "term": "Simulation experiment",
             "uri": "http://edamontology.org/topic_3524"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -86,7 +86,7 @@
                         "name": "Hippler M."
                     }
                 ],
-                "citationCount": 32,
+                "citationCount": 29,
                 "date": "2011-04-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "Proteomics to go: Proteomatic enables the user-friendly creation of versatile MS/MS data evaluation workflows"
@@ -106,6 +106,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

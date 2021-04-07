@@ -105,7 +105,7 @@
                         "name": "Chodera J.D."
                     }
                 ],
-                "citationCount": 828,
+                "citationCount": 673,
                 "date": "2008-01-01T00:00:00Z",
                 "journal": "Journal of Chemical Physics",
                 "title": "Statistically optimal analysis of samples from multiple equilibrium states"
@@ -131,6 +131,5 @@
             "term": "Pharmacology",
             "uri": "http://edamontology.org/topic_0202"
         }
-    ],
-    "validated": 1
+    ]
 }

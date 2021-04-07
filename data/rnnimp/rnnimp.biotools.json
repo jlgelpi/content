@@ -29,7 +29,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-15T19:45:06Z",
+    "lastUpdate": "2021-01-15T19:45:05.795996Z",
     "name": "rnnimp",
     "owner": "Pub2Tools",
     "publication": [
@@ -50,6 +50,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

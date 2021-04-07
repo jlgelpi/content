@@ -84,7 +84,7 @@
                         "name": "Bandeira N."
                     }
                 ],
-                "citationCount": 5,
+                "citationCount": 3,
                 "date": "2014-03-07T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "A turn-key approach for large-scale identification of complex posttranslational modifications"
@@ -116,6 +116,5 @@
             "term": "Protein structure analysis",
             "uri": "http://edamontology.org/topic_2814"
         }
-    ],
-    "validated": 1
+    ]
 }

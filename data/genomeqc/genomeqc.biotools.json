@@ -30,7 +30,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2021-01-14T08:49:12Z",
+    "lastUpdate": "2021-01-14T08:49:12.329066Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -71,6 +71,5 @@
             "term": "Sequencing",
             "uri": "http://edamontology.org/topic_3168"
         }
-    ],
-    "validated": 1
+    ]
 }

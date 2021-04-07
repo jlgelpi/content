@@ -100,7 +100,7 @@
                         "name": "Orengo C.A."
                     }
                 ],
-                "citationCount": 116,
+                "citationCount": 110,
                 "date": "2011-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Extending CATH: Increasing coverage of the protein structure universe and linking structure with function"
@@ -132,6 +132,5 @@
             "term": "Protein structure analysis",
             "uri": "http://edamontology.org/topic_2814"
         }
-    ],
-    "validated": 1
+    ]
 }

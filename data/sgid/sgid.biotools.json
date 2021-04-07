@@ -26,7 +26,7 @@
         }
     ],
     "homepage": "http://sgid.popgenetics.net",
-    "lastUpdate": "2020-12-19T16:13:55Z",
+    "lastUpdate": "2020-12-19T16:13:54.741543Z",
     "name": "SGID",
     "owner": "Pub2Tools",
     "publication": [
@@ -47,6 +47,5 @@
             "term": "Transcriptomics",
             "uri": "http://edamontology.org/topic_3308"
         }
-    ],
-    "validated": 1
+    ]
 }

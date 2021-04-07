@@ -67,7 +67,6 @@
                         "name": "Nair A.S."
                     }
                 ],
-                "citationCount": 2,
                 "date": "2019-12-01T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "SPARK-MSNA: Efficient algorithm on Apache Spark for aligning multiple similar DNA/RNA sequences with supervised learning"
@@ -95,6 +94,5 @@
             "term": "Nucleic acid structure analysis",
             "uri": "http://edamontology.org/topic_0097"
         }
-    ],
-    "validated": 1
+    ]
 }

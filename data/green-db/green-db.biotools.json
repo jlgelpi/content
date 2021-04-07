@@ -37,7 +37,7 @@
         "Python",
         "Shell"
     ],
-    "lastUpdate": "2021-01-25T10:43:54Z",
+    "lastUpdate": "2021-01-25T10:43:53.637838Z",
     "license": "MIT",
     "name": "GREEN-DB",
     "owner": "Niclaskn",
@@ -70,6 +70,5 @@
             "term": "Genomics",
             "uri": "http://edamontology.org/topic_0622"
         }
-    ],
-    "validated": 1
+    ]
 }

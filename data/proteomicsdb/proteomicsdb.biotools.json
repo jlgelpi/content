@@ -194,7 +194,7 @@
                         "name": "Kuster B."
                     }
                 ],
-                "citationCount": 1100,
+                "citationCount": 859,
                 "date": "2014-01-01T00:00:00Z",
                 "journal": "Nature",
                 "title": "Mass-spectrometry-based draft of the human proteome"
@@ -223,6 +223,5 @@
             "term": "Protein interactions",
             "uri": "http://edamontology.org/topic_0128"
         }
-    ],
-    "validated": 1
+    ]
 }

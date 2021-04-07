@@ -89,7 +89,7 @@
                         "name": "Zhang M."
                     }
                 ],
-                "citationCount": 7,
+                "citationCount": 6,
                 "date": "2013-01-01T00:00:00Z",
                 "journal": "Nucleic acids research",
                 "title": "HIV N-linked glycosylation site analyzer and its further usage in anchored alignment."
@@ -124,6 +124,5 @@
             "term": "Sequence analysis",
             "uri": "http://edamontology.org/topic_0080"
         }
-    ],
-    "validated": 1
+    ]
 }

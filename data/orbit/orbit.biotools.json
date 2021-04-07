@@ -34,7 +34,7 @@
         }
     ],
     "homepage": "http://www.orbit.bio",
-    "lastUpdate": "2021-01-04T14:23:04Z",
+    "lastUpdate": "2021-01-04T14:23:03.751292Z",
     "name": "Orbit",
     "owner": "Pub2Tools",
     "publication": [
@@ -58,6 +58,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -26,7 +26,7 @@
         }
     ],
     "homepage": "http://bbcancer.renlab.org/",
-    "lastUpdate": "2020-12-03T11:50:20Z",
+    "lastUpdate": "2020-12-03T11:50:20.023924Z",
     "name": "BBCancer",
     "owner": "Pub2Tools",
     "publication": [
@@ -63,7 +63,7 @@
                         "name": "Ren J."
                     }
                 ],
-                "citationCount": 11,
+                "citationCount": 7,
                 "date": "2020-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "BBCancer: An expression atlas of blood-based biomarkers in the early diagnosis of cancers"
@@ -92,6 +92,5 @@
             "term": "Gene expression",
             "uri": "http://edamontology.org/topic_0203"
         }
-    ],
-    "validated": 1
+    ]
 }

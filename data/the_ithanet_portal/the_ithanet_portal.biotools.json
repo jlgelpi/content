@@ -98,7 +98,7 @@
                         "name": "Kleanthous M."
                     }
                 ],
-                "citationCount": 75,
+                "citationCount": 57,
                 "date": "2014-07-24T00:00:00Z",
                 "journal": "PLoS ONE",
                 "title": "IthaGenes: An interactive database for haemoglobin variations and epidemiology"
@@ -202,7 +202,7 @@
                         "name": "Kleanthous M."
                     }
                 ],
-                "citationCount": 15,
+                "citationCount": 14,
                 "date": "2009-06-01T00:00:00Z",
                 "journal": "Hemoglobin",
                 "title": "An electronic infrastructure for research and treatment of the thalassemias and other hemoglobinopathies: The Euro-Mediterranean ITHANET project"
@@ -274,6 +274,5 @@
             "term": "Rare diseases",
             "uri": "http://edamontology.org/topic_3325"
         }
-    ],
-    "validated": 1
+    ]
 }

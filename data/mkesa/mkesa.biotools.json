@@ -142,7 +142,7 @@
                         "name": "Rehmsmeier M."
                     }
                 ],
-                "citationCount": 19,
+                "citationCount": 17,
                 "date": "2009-04-20T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "mkESA: Enhanced suffix array construction tool"
@@ -165,7 +165,6 @@
             "uri": "http://edamontology.org/topic_3071"
         }
     ],
-    "validated": 1,
     "version": [
         "1"
     ]

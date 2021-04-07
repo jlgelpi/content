@@ -37,7 +37,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-02T13:18:56Z",
+    "lastUpdate": "2020-12-02T13:18:55.636974Z",
     "link": [
         {
             "type": [
@@ -61,7 +61,7 @@
                         "name": "Yergeau E."
                     }
                 ],
-                "citationCount": 9,
+                "citationCount": 6,
                 "date": "2019-12-06T00:00:00Z",
                 "journal": "GigaScience",
                 "title": "Systematic processing of ribosomal RNA gene amplicon sequencing data"
@@ -91,6 +91,5 @@
             "term": "Workflows",
             "uri": "http://edamontology.org/topic_0769"
         }
-    ],
-    "validated": 1
+    ]
 }

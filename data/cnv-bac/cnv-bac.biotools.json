@@ -26,7 +26,7 @@
         "C++",
         "C"
     ],
-    "lastUpdate": "2020-12-16T16:03:12Z",
+    "lastUpdate": "2020-12-16T16:03:11.619746Z",
     "name": "CNV-BAC",
     "owner": "Pub2Tools",
     "publication": [
@@ -74,6 +74,5 @@
             "term": "DNA",
             "uri": "http://edamontology.org/topic_0654"
         }
-    ],
-    "validated": 1
+    ]
 }

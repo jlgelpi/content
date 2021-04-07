@@ -45,7 +45,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-23T16:38:58Z",
+    "lastUpdate": "2021-01-23T16:38:57.997183Z",
     "license": "GPL-3.0",
     "name": "pipeComp",
     "owner": "zsmag19",
@@ -67,6 +67,5 @@
             "term": "RNA",
             "uri": "http://edamontology.org/topic_0099"
         }
-    ],
-    "validated": 1
+    ]
 }

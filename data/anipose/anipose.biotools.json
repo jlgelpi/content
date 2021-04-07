@@ -36,7 +36,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-23T15:50:30Z",
+    "lastUpdate": "2021-01-23T15:50:29.594141Z",
     "link": [
         {
             "type": [
@@ -75,6 +75,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

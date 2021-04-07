@@ -93,7 +93,7 @@
                         "name": "Hunter A."
                     }
                 ],
-                "citationCount": 20,
+                "citationCount": 18,
                 "date": "2014-06-20T00:00:00Z",
                 "journal": "Source Code for Biology and Medicine",
                 "title": "Second generation registry framework"
@@ -129,6 +129,5 @@
             "term": "Database management",
             "uri": "http://edamontology.org/topic_3489"
         }
-    ],
-    "validated": 1
+    ]
 }

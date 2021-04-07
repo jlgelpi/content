@@ -170,7 +170,7 @@
                         "name": "Chambers M.C."
                     }
                 ],
-                "citationCount": 412,
+                "citationCount": 358,
                 "date": "2007-02-01T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "MyriMatch: Highly accurate tandem mass spectral peptide identification by multivariate hypergeometric analysis"
@@ -192,6 +192,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

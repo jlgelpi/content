@@ -93,7 +93,7 @@
                         "name": "Helmer-Citterich M."
                     }
                 ],
-                "citationCount": 41,
+                "citationCount": 40,
                 "date": "1998-12-11T00:00:00Z",
                 "journal": "Journal of Molecular Biology",
                 "title": "Three-dimensional profiles: A new tool to identify protein surface similarities"
@@ -132,7 +132,7 @@
                         "name": "Helmer-Citterich M."
                     }
                 ],
-                "citationCount": 48,
+                "citationCount": 45,
                 "date": "2005-12-01T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "Query3d: A new method for high-throughput analysis of functional residues in protien structures"
@@ -156,6 +156,5 @@
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
         }
-    ],
-    "validated": 1
+    ]
 }

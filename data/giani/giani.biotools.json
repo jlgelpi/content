@@ -44,7 +44,7 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2021-01-23T09:50:16Z",
+    "lastUpdate": "2021-01-23T09:50:16.396539Z",
     "link": [
         {
             "type": [
@@ -80,6 +80,5 @@
             "term": "Protein expression",
             "uri": "http://edamontology.org/topic_0108"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -128,7 +128,7 @@
                         "name": "Brors B."
                     }
                 ],
-                "citationCount": 4,
+                "citationCount": 2,
                 "date": "2019-05-28T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "TelomereHunter - In silico estimation of telomere content and composition from cancer genomes"
@@ -156,6 +156,5 @@
             "term": "Whole genome sequencing",
             "uri": "http://edamontology.org/topic_3673"
         }
-    ],
-    "validated": 1
+    ]
 }

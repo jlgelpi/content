@@ -81,7 +81,7 @@
                         "name": "Hide W."
                     }
                 ],
-                "citationCount": 15,
+                "citationCount": 4,
                 "date": "2018-03-01T00:00:00Z",
                 "journal": "PLoS Computational Biology",
                 "title": "The Pathway Coexpression Network: Revealing pathway relationships"
@@ -104,6 +104,5 @@
             "term": "Gene expression",
             "uri": "http://edamontology.org/topic_0203"
         }
-    ],
-    "validated": 1
+    ]
 }

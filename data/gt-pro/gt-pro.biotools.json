@@ -40,7 +40,7 @@
     "language": [
         "C++"
     ],
-    "lastUpdate": "2021-01-25T11:49:06Z",
+    "lastUpdate": "2021-01-25T11:49:05.808621Z",
     "license": "MIT",
     "name": "GT-Pro",
     "owner": "Niclaskn",
@@ -73,6 +73,5 @@
             "term": "Metagenomic sequencing",
             "uri": "http://edamontology.org/topic_3837"
         }
-    ],
-    "validated": 1
+    ]
 }

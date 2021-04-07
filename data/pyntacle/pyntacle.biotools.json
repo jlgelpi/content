@@ -1,6 +1,6 @@
 {
     "accessibility": "Open access",
-    "additionDate": "2020-09-16T18:29:07Z",
+    "additionDate": "2020-09-16T18:29:07.325036",
     "biotoolsCURIE": "biotools:pyntacle",
     "biotoolsID": "pyntacle",
     "cost": "Free of charge",
@@ -38,7 +38,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-09-16T18:29:07Z",
+    "lastUpdate": "2020-09-16T18:29:07.325913Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -67,7 +67,6 @@
             "uri": "http://edamontology.org/topic_0091"
         }
     ],
-    "validated": 1,
     "version": [
         "1.3"
     ]

@@ -1,5 +1,5 @@
 {
-    "additionDate": "2021-03-25T19:41:11Z",
+    "additionDate": "2021-03-25T19:41:10.956835",
     "biotoolsCURIE": "biotools:driftage",
     "biotoolsID": "driftage",
     "description": "The proposal of Driftage is build a framework using multi-agent systems to simplify the implementation of concept drift detectors for dynamic environments.",
@@ -7,7 +7,7 @@
         "type": "private"
     },
     "homepage": "https://driftage.readthedocs.io/index.html",
-    "lastUpdate": "2021-03-25T19:41:11Z",
+    "lastUpdate": "2021-03-25T19:41:10.957977Z",
     "name": "Driftage",
     "owner": "diogo.munaro",
     "version": [

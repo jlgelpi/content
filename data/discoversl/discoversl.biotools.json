@@ -76,7 +76,6 @@
                         "name": "Schwartz R."
                     }
                 ],
-                "citationCount": 5,
                 "date": "2019-02-15T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "DiscoverSL: An R package for multi-omic data driven prediction of synthetic lethality in cancers"
@@ -104,7 +103,6 @@
             "uri": "http://edamontology.org/topic_0602"
         }
     ],
-    "validated": 1,
     "version": [
         "1.0"
     ]

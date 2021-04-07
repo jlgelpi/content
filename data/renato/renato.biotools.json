@@ -84,7 +84,7 @@
                         "name": "Dopazo J."
                     }
                 ],
-                "citationCount": 8,
+                "citationCount": 7,
                 "date": "2012-07-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Inferring the regulatory network behind a gene expression experiment"
@@ -119,6 +119,5 @@
             "term": "Gene regulation",
             "uri": "http://edamontology.org/topic_0204"
         }
-    ],
-    "validated": 1
+    ]
 }

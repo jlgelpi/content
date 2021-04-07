@@ -35,7 +35,7 @@
         "C++",
         "C"
     ],
-    "lastUpdate": "2020-12-22T10:43:06Z",
+    "lastUpdate": "2020-12-22T10:43:06.329434Z",
     "license": "MIT",
     "name": "LESSeq",
     "owner": "Pub2Tools",
@@ -68,6 +68,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -21,7 +21,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-11T14:22:51Z",
+    "lastUpdate": "2020-12-11T14:22:51.042950Z",
     "license": "BSD-3-Clause",
     "name": "q2-sample-classifier",
     "owner": "Pub2Tools",
@@ -45,6 +45,5 @@
             "term": "Metagenomics",
             "uri": "http://edamontology.org/topic_3174"
         }
-    ],
-    "validated": 1
+    ]
 }

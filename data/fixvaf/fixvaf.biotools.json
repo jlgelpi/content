@@ -50,7 +50,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-28T20:50:21Z",
+    "lastUpdate": "2020-12-28T20:50:20.801823Z",
     "link": [
         {
             "type": [
@@ -86,6 +86,5 @@
             "term": "Genetic variation",
             "uri": "http://edamontology.org/topic_0199"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -92,7 +92,7 @@
                         "name": "Smith R.D."
                     }
                 ],
-                "citationCount": 284,
+                "citationCount": 242,
                 "date": "2008-07-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "DAnTE: A statistical tool for quantitative analysis of -omics data"
@@ -111,6 +111,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

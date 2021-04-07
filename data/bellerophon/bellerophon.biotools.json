@@ -46,7 +46,7 @@
         "Ruby",
         "Perl"
     ],
-    "lastUpdate": "2020-12-05T14:14:13Z",
+    "lastUpdate": "2020-12-05T14:14:12.901393Z",
     "name": "Bellerophon",
     "owner": "Pub2Tools",
     "publication": [
@@ -93,6 +93,5 @@
             "term": "Workflows",
             "uri": "http://edamontology.org/topic_0769"
         }
-    ],
-    "validated": 1
+    ]
 }

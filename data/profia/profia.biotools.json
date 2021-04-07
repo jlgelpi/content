@@ -144,7 +144,7 @@
                         "name": "Morgan M."
                     }
                 ],
-                "citationCount": 1256,
+                "citationCount": 755,
                 "date": "2015-01-01T00:00:00Z",
                 "journal": "Nature Methods",
                 "title": "Orchestrating high-throughput genomic analysis with Bioconductor"
@@ -164,7 +164,6 @@
             "uri": "http://edamontology.org/topic_3172"
         }
     ],
-    "validated": 1,
     "version": [
         "1.0.10"
     ]

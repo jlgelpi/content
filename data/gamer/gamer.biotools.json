@@ -20,7 +20,7 @@
         "C++",
         "C"
     ],
-    "lastUpdate": "2020-12-01T11:13:40Z",
+    "lastUpdate": "2020-12-01T11:13:40.185530Z",
     "license": "LGPL-2.1",
     "name": "GAMer",
     "owner": "Pub2Tools",
@@ -42,6 +42,5 @@
             "term": "X-ray diffraction",
             "uri": "http://edamontology.org/topic_2828"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -37,7 +37,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-11T19:45:15Z",
+    "lastUpdate": "2020-12-11T19:45:15.167879Z",
     "name": "Chimera visualisation plugin",
     "owner": "Kigaard",
     "publication": [
@@ -60,6 +60,5 @@
             "term": "Protein folding, stability and design",
             "uri": "http://edamontology.org/topic_0130"
         }
-    ],
-    "validated": 1
+    ]
 }

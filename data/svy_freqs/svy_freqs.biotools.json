@@ -25,7 +25,7 @@
     "language": [
         "SAS"
     ],
-    "lastUpdate": "2020-12-27T12:44:36Z",
+    "lastUpdate": "2020-12-27T12:44:35.841005Z",
     "name": "svy_freqs",
     "owner": "Pub2Tools",
     "publication": [
@@ -46,6 +46,5 @@
             "term": "Statistics and probability",
             "uri": "http://edamontology.org/topic_2269"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -102,7 +102,7 @@
                         "name": "Elofsson A."
                     }
                 ],
-                "citationCount": 502,
+                "citationCount": 425,
                 "date": "2003-05-01T00:00:00Z",
                 "journal": "Protein Science",
                 "title": "Can correct protein models be identified?"
@@ -122,7 +122,6 @@
             "uri": "http://edamontology.org/topic_0081"
         }
     ],
-    "validated": 1,
     "version": [
         "1"
     ]

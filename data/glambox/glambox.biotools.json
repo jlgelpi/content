@@ -34,7 +34,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-03T11:46:31Z",
+    "lastUpdate": "2020-12-03T11:46:31.304958Z",
     "license": "MIT",
     "link": [
         {
@@ -93,6 +93,5 @@
             "term": "Neurobiology",
             "uri": "http://edamontology.org/topic_3304"
         }
-    ],
-    "validated": 1
+    ]
 }

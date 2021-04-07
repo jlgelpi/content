@@ -74,7 +74,7 @@
                         "name": "Holm L."
                     }
                 ],
-                "citationCount": 15,
+                "citationCount": 9,
                 "date": "2015-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "SANSparallel: Interactive homology search against Uniprot"
@@ -98,6 +98,5 @@
             "term": "Protein sites, features and motifs",
             "uri": "http://edamontology.org/topic_3510"
         }
-    ],
-    "validated": 1
+    ]
 }

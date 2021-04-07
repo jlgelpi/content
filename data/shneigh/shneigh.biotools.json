@@ -11,7 +11,7 @@
     "language": [
         "MATLAB"
     ],
-    "lastUpdate": "2020-12-19T16:30:19Z",
+    "lastUpdate": "2020-12-19T16:30:19.478748Z",
     "name": "ShNeigh",
     "owner": "Pub2Tools",
     "publication": [
@@ -24,6 +24,5 @@
             "term": "Mathematics",
             "uri": "http://edamontology.org/topic_3315"
         }
-    ],
-    "validated": 1
+    ]
 }

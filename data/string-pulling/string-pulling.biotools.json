@@ -30,7 +30,7 @@
         "MATLAB",
         "C++"
     ],
-    "lastUpdate": "2021-01-16T14:33:05Z",
+    "lastUpdate": "2021-01-16T14:33:04.839903Z",
     "license": "GPL-3.0",
     "name": "String-pulling",
     "owner": "Pub2Tools",
@@ -60,6 +60,5 @@
             "term": "Neurobiology",
             "uri": "http://edamontology.org/topic_3304"
         }
-    ],
-    "validated": 1
+    ]
 }

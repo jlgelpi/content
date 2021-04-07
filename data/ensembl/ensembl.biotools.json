@@ -245,7 +245,7 @@
                         "name": "Flicek P."
                     }
                 ],
-                "citationCount": 884,
+                "citationCount": 777,
                 "date": "2015-01-28T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl 2015"
@@ -365,7 +365,7 @@
                         "name": "Clamp M."
                     }
                 ],
-                "citationCount": 1053,
+                "citationCount": 1018,
                 "date": "2002-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "The Ensembl genome database project"
@@ -671,7 +671,7 @@
                         "name": "Birney E."
                     }
                 ],
-                "citationCount": 327,
+                "citationCount": 326,
                 "date": "2005-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl 2005"
@@ -1032,7 +1032,7 @@
                         "name": "Birney E."
                     }
                 ],
-                "citationCount": 537,
+                "citationCount": 532,
                 "date": "2007-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl 2007"
@@ -1226,7 +1226,7 @@
                         "name": "Searle S."
                     }
                 ],
-                "citationCount": 346,
+                "citationCount": 342,
                 "date": "2008-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl 2008"
@@ -1417,7 +1417,7 @@
                         "name": "Flicek P."
                     }
                 ],
-                "citationCount": 648,
+                "citationCount": 646,
                 "date": "2009-01-09T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl 2009"
@@ -1605,7 +1605,7 @@
                         "name": "Searle S.M.J."
                     }
                 ],
-                "citationCount": 238,
+                "citationCount": 235,
                 "date": "2009-11-11T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "Ensembl's 10th year"
@@ -1630,6 +1630,5 @@
             "term": "Rare diseases",
             "uri": "http://edamontology.org/topic_3325"
         }
-    ],
-    "validated": 1
+    ]
 }

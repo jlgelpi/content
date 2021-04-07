@@ -97,7 +97,6 @@
                         "name": "Xu L."
                     }
                 ],
-                "citationCount": 1,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "Molecular Omics",
                 "title": "ReCirc: Prediction of circRNA expression and function through probe reannotation of non-circRNA microarrays"
@@ -124,6 +123,5 @@
             "term": "Gene transcripts",
             "uri": "http://edamontology.org/topic_3512"
         }
-    ],
-    "validated": 1
+    ]
 }

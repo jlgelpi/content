@@ -41,7 +41,7 @@
         "Python",
         "Shell"
     ],
-    "lastUpdate": "2021-01-22T18:11:01Z",
+    "lastUpdate": "2021-01-22T18:11:01.152057Z",
     "name": "PathExt",
     "owner": "zsmag19",
     "publication": [
@@ -70,6 +70,5 @@
             "term": "Mathematics",
             "uri": "http://edamontology.org/topic_3315"
         }
-    ],
-    "validated": 1
+    ]
 }

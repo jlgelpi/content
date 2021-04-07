@@ -21,10 +21,7 @@
         }
     ],
     "editPermission": {
-        "authors": [
-            "ELIXIR-CZ"
-        ],
-        "type": "group"
+        "type": "private"
     },
     "function": [
         {
@@ -44,7 +41,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-10-26T11:16:42Z",
+    "lastUpdate": "2018-12-10T12:58:56Z",
     "link": [
         {
             "type": [
@@ -78,7 +75,7 @@
                         "name": "Gray J.J."
                     }
                 ],
-                "citationCount": 35,
+                "citationCount": 27,
                 "date": "2011-08-19T00:00:00Z",
                 "journal": "PLoS ONE",
                 "title": "Real-time PyMOL visualization for Rosetta and PyRosetta"

@@ -86,7 +86,7 @@
                         "name": "Raghava G.P.S."
                     }
                 ],
-                "citationCount": 92,
+                "citationCount": 38,
                 "date": "2013-10-29T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "In silico models for designing and discovering novel anticancer peptides"
@@ -110,6 +110,5 @@
             "term": "Structure prediction",
             "uri": "http://edamontology.org/topic_0082"
         }
-    ],
-    "validated": 1
+    ]
 }

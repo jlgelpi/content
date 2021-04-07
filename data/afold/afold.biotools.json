@@ -89,7 +89,6 @@
                         "name": "Schulenburg H."
                     }
                 ],
-                "citationCount": 2,
                 "date": "2019-05-10T00:00:00Z",
                 "journal": "BMC Genomics",
                 "title": "AFold - Using polynomial uncertainty modelling for differential gene expression estimation from RNA sequencing data"
@@ -117,6 +116,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

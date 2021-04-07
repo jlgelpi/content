@@ -169,7 +169,7 @@
                         "name": "Church G.M."
                     }
                 ],
-                "citationCount": 92,
+                "citationCount": 86,
                 "date": "2006-03-01T00:00:00Z",
                 "journal": "Proteomics",
                 "title": "MapQuant: Open-source software for large-scale protein quantification"
@@ -193,6 +193,5 @@
             "term": "Data visualisation",
             "uri": "http://edamontology.org/topic_0092"
         }
-    ],
-    "validated": 1
+    ]
 }

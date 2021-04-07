@@ -18,7 +18,7 @@
         }
     ],
     "homepage": "http://rcnn.modelderm.com",
-    "lastUpdate": "2021-01-15T18:58:29Z",
+    "lastUpdate": "2021-01-15T18:58:28.714397Z",
     "name": "rcnn",
     "owner": "Pub2Tools",
     "publication": [
@@ -43,6 +43,5 @@
             "term": "Oncology",
             "uri": "http://edamontology.org/topic_2640"
         }
-    ],
-    "validated": 1
+    ]
 }

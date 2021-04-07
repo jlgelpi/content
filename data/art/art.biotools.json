@@ -74,7 +74,7 @@
                         "name": "Marth G.T."
                     }
                 ],
-                "citationCount": 554,
+                "citationCount": 498,
                 "date": "2012-02-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "ART: A next-generation sequencing read simulator"
@@ -86,6 +86,5 @@
             "term": "Bioinformatics",
             "uri": "http://edamontology.org/topic_0091"
         }
-    ],
-    "validated": 1
+    ]
 }

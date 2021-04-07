@@ -19,7 +19,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-21T16:16:36Z",
+    "lastUpdate": "2021-01-21T16:16:36.157510Z",
     "license": "MIT",
     "name": "AiZynthFinder",
     "owner": "Kigaard",
@@ -45,6 +45,5 @@
             "term": "Chemistry",
             "uri": "http://edamontology.org/topic_3314"
         }
-    ],
-    "validated": 1
+    ]
 }

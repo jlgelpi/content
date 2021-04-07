@@ -107,7 +107,7 @@
                         "name": "McHardy A.C."
                     }
                 ],
-                "citationCount": 12,
+                "citationCount": 6,
                 "date": "2019-02-08T00:00:00Z",
                 "journal": "Microbiome",
                 "title": "CAMISIM: Simulating metagenomes and microbial communities"
@@ -135,6 +135,5 @@
             "term": "Metagenomic sequencing",
             "uri": "http://edamontology.org/topic_3837"
         }
-    ],
-    "validated": 1
+    ]
 }

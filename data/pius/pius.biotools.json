@@ -87,7 +87,7 @@
                         "name": "Ramon J."
                     }
                 ],
-                "citationCount": 6,
+                "citationCount": 5,
                 "date": "2013-08-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "PIUS: Peptide identification by unbiased search"
@@ -107,6 +107,5 @@
             "term": "Transcriptomics",
             "uri": "http://edamontology.org/topic_3308"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -121,7 +121,7 @@
                         "name": "Lenaerts T."
                     }
                 ],
-                "citationCount": 46,
+                "citationCount": 40,
                 "date": "2016-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "DIDA: A curated and annotated digenic diseases database"
@@ -158,6 +158,5 @@
             "term": "Rare diseases",
             "uri": "http://edamontology.org/topic_3325"
         }
-    ],
-    "validated": 1
+    ]
 }

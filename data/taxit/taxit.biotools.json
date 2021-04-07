@@ -26,7 +26,7 @@
         }
     ],
     "homepage": "https://gitlab.com/rki_bioinformatics/TaxIt",
-    "lastUpdate": "2021-01-16T16:12:32Z",
+    "lastUpdate": "2021-01-16T16:12:32.198919Z",
     "name": "TaxIt",
     "owner": "Pub2Tools",
     "publication": [
@@ -55,6 +55,5 @@
             "term": "Virology",
             "uri": "http://edamontology.org/topic_0781"
         }
-    ],
-    "validated": 1
+    ]
 }

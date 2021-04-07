@@ -21,7 +21,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-02T17:34:52Z",
+    "lastUpdate": "2020-12-02T17:34:51.598304Z",
     "license": "GPL-3.0",
     "name": "B-SOiD",
     "owner": "Pub2Tools",
@@ -39,6 +39,5 @@
             "term": "Neurobiology",
             "uri": "http://edamontology.org/topic_3304"
         }
-    ],
-    "validated": 1
+    ]
 }

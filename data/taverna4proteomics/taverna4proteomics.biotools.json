@@ -82,7 +82,7 @@
                         "name": "Palmblads M."
                     }
                 ],
-                "citationCount": 18,
+                "citationCount": 13,
                 "date": "2012-07-01T00:00:00Z",
                 "journal": "Molecular and Cellular Proteomics",
                 "title": "Scientific workflow management in proteomics"
@@ -106,6 +106,5 @@
             "term": "Workflows",
             "uri": "http://edamontology.org/topic_0769"
         }
-    ],
-    "validated": 1
+    ]
 }

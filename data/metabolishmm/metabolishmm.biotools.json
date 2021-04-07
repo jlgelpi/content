@@ -37,7 +37,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-28T09:04:12Z",
+    "lastUpdate": "2020-12-28T09:04:12.159455Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -78,6 +78,5 @@
             "term": "Molecular interactions, pathways and networks",
             "uri": "http://edamontology.org/topic_0602"
         }
-    ],
-    "validated": 1
+    ]
 }

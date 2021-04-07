@@ -115,7 +115,7 @@
                         "name": "Haibe-Kains B."
                     }
                 ],
-                "citationCount": 6,
+                "citationCount": 1,
                 "date": "2019-09-01T00:00:00Z",
                 "journal": "Cancer Research",
                 "title": "Integrative pharmacogenomics analysis of patient-derived xenografts"
@@ -142,6 +142,5 @@
             "term": "Biomarkers",
             "uri": "http://edamontology.org/topic_3360"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -219,7 +219,7 @@
                         "name": "Dillies M.-A."
                     }
                 ],
-                "citationCount": 176,
+                "citationCount": 134,
                 "date": "2016-06-01T00:00:00Z",
                 "journal": "PLoS ONE",
                 "title": "SARTools: A DESeq2- and edgeR-based R pipeline for comprehensive differential analysis of RNA-Seq data"
@@ -244,7 +244,6 @@
             "uri": "http://edamontology.org/topic_3308"
         }
     ],
-    "validated": 1,
     "version": [
         "1.4.0"
     ]

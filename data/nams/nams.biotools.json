@@ -61,7 +61,6 @@
                         "name": "Sun H."
                     }
                 ],
-                "citationCount": 1,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "Methods in Molecular Biology",
                 "title": "NAMS: Noncoding Assessment of long RNAs in Magnoliophyta Species"
@@ -88,6 +87,5 @@
             "term": "Plant biology",
             "uri": "http://edamontology.org/topic_0780"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -87,7 +87,7 @@
                         "name": "Coon J.J."
                     }
                 ],
-                "citationCount": 30,
+                "citationCount": 5,
                 "date": "2018-05-23T00:00:00Z",
                 "journal": "Cell Systems",
                 "title": "LipiDex: An Integrated Software Package for High-Confidence Lipid Identification"
@@ -115,6 +115,5 @@
             "term": "Metabolomics",
             "uri": "http://edamontology.org/topic_3172"
         }
-    ],
-    "validated": 1
+    ]
 }

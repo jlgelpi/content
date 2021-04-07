@@ -60,7 +60,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-18T08:29:38Z",
+    "lastUpdate": "2020-12-18T08:29:38.351803Z",
     "license": "GPL-1.0",
     "link": [
         {
@@ -102,7 +102,6 @@
             "uri": "http://edamontology.org/topic_0121"
         }
     ],
-    "validated": 1,
     "version": [
         "1.0.0"
     ]

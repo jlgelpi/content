@@ -29,7 +29,7 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2020-12-05T14:40:37Z",
+    "lastUpdate": "2020-12-05T14:40:37.495107Z",
     "license": "GPL-2.0",
     "link": [
         {
@@ -84,7 +84,7 @@
                         "name": "Preibisch S."
                     }
                 ],
-                "citationCount": 31,
+                "citationCount": 20,
                 "date": "2019-09-01T00:00:00Z",
                 "journal": "Nature Methods",
                 "title": "BigStitcher: reconstructing high-resolution image datasets of cleared and expanded samples"
@@ -101,6 +101,5 @@
             "term": "Zoology",
             "uri": "http://edamontology.org/topic_3500"
         }
-    ],
-    "validated": 1
+    ]
 }

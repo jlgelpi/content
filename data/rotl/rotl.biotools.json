@@ -37,7 +37,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-14T08:54:36Z",
+    "lastUpdate": "2020-12-14T08:54:36.379046Z",
     "license": "BSD-2-Clause",
     "link": [
         {
@@ -80,6 +80,5 @@
             "term": "Taxonomy",
             "uri": "http://edamontology.org/topic_0637"
         }
-    ],
-    "validated": 1
+    ]
 }

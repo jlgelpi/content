@@ -79,7 +79,7 @@
                         "name": "Hu H."
                     }
                 ],
-                "citationCount": 9,
+                "citationCount": 4,
                 "date": "2019-12-01T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "PCA-PAM50 improves consistency between breast cancer intrinsic and clinical subtyping reclassifying a subset of luminal A tumors as luminal B"
@@ -107,6 +107,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

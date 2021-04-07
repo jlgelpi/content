@@ -85,7 +85,7 @@
                         "name": "Vizcaino J.A."
                     }
                 ],
-                "citationCount": 14,
+                "citationCount": 12,
                 "date": "2014-01-01T00:00:00Z",
                 "journal": "Proteomics",
                 "title": "jmzTab: A Java interface to the mzTab data standard"
@@ -105,6 +105,5 @@
             "term": "Metabolomics",
             "uri": "http://edamontology.org/topic_3172"
         }
-    ],
-    "validated": 1
+    ]
 }

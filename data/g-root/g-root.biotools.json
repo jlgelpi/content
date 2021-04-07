@@ -36,7 +36,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2021-01-25T11:05:24Z",
+    "lastUpdate": "2021-01-25T11:05:24.416914Z",
     "name": "G-RooT",
     "owner": "Niclaskn",
     "publication": [
@@ -68,6 +68,5 @@
             "term": "Ecology",
             "uri": "http://edamontology.org/topic_0610"
         }
-    ],
-    "validated": 1
+    ]
 }

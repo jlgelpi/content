@@ -75,7 +75,7 @@
                         "name": "Hocking T.D."
                     }
                 ],
-                "citationCount": 30,
+                "citationCount": 21,
                 "date": "2018-10-04T00:00:00Z",
                 "journal": "American Journal of Human Genetics",
                 "title": "ClinPred: Prediction Tool to Identify Disease-Relevant Nonsynonymous Single-Nucleotide Variants"
@@ -100,6 +100,5 @@
             "term": "Exome sequencing",
             "uri": "http://edamontology.org/topic_3676"
         }
-    ],
-    "validated": 1
+    ]
 }

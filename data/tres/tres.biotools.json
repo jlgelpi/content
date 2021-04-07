@@ -75,7 +75,7 @@
                         "name": "Vlahavas I."
                     }
                 ],
-                "citationCount": 15,
+                "citationCount": 9,
                 "date": "2015-01-01T00:00:00Z",
                 "journal": "Journal of Heredity",
                 "title": "TRES: Identification of Discriminatory and Informative SNPs from Population Genomic Data"
@@ -91,6 +91,5 @@
             "term": "Genetic variation",
             "uri": "http://edamontology.org/topic_0199"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -27,7 +27,7 @@
         "SAS",
         "C"
     ],
-    "lastUpdate": "2020-12-11T14:47:08Z",
+    "lastUpdate": "2020-12-11T14:47:08.102729Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -79,6 +79,5 @@
             "term": "Personalised medicine",
             "uri": "http://edamontology.org/topic_3577"
         }
-    ],
-    "validated": 1
+    ]
 }

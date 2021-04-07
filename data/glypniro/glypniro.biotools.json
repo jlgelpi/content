@@ -36,7 +36,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-25T08:42:45Z",
+    "lastUpdate": "2021-01-25T08:42:44.933132Z",
     "license": "MIT",
     "name": "GlypNirO",
     "owner": "Niclaskn",
@@ -69,6 +69,5 @@
             "term": "Small molecules",
             "uri": "http://edamontology.org/topic_0154"
         }
-    ],
-    "validated": 1
+    ]
 }

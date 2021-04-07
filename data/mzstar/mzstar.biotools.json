@@ -111,7 +111,7 @@
                         "name": "Sickmann A."
                     }
                 ],
-                "citationCount": 30,
+                "citationCount": 29,
                 "date": "2004-10-26T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "Extractor for ESI quadrupole TOF tandem MS data enabled for high throughput batch processing"
@@ -129,6 +129,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

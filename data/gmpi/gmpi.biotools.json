@@ -19,7 +19,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-03T12:06:48Z",
+    "lastUpdate": "2020-12-03T12:06:47.761212Z",
     "name": "GMpi",
     "owner": "Pub2Tools",
     "publication": [
@@ -44,7 +44,7 @@
                         "name": "Chris Pires J."
                     }
                 ],
-                "citationCount": 7,
+                "citationCount": 4,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "Applications in Plant Sciences",
                 "title": "Affordable remote monitoring of plant growth in facilities using Raspberry Pi computers"
@@ -69,6 +69,5 @@
             "term": "Agricultural science",
             "uri": "http://edamontology.org/topic_3810"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "accessibility": "Open access",
-    "additionDate": "2021-01-14T17:37:37Z",
+    "additionDate": "2021-01-14T17:37:37.405108",
     "biotoolsCURIE": "biotools:ippi-db",
     "biotoolsID": "ippi-db",
     "confidence_flag": "tool",
@@ -43,7 +43,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-14T17:37:37Z",
+    "lastUpdate": "2021-01-14T17:37:37.406061Z",
     "license": "GPL-3.0",
     "link": [
         {
@@ -88,6 +88,5 @@
             "term": "Compound libraries and screening",
             "uri": "http://edamontology.org/topic_3343"
         }
-    ],
-    "validated": 1
+    ]
 }

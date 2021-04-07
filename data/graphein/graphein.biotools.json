@@ -36,7 +36,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-25T09:44:06Z",
+    "lastUpdate": "2021-01-25T09:44:06.315235Z",
     "license": "MIT",
     "name": "Graphein",
     "owner": "Niclaskn",
@@ -65,6 +65,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

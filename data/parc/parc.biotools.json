@@ -25,7 +25,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-05T09:16:29Z",
+    "lastUpdate": "2021-01-05T09:16:28.522019Z",
     "license": "MIT",
     "name": "PARC",
     "owner": "Pub2Tools",
@@ -50,6 +50,5 @@
             "term": "Biophysics",
             "uri": "http://edamontology.org/topic_3306"
         }
-    ],
-    "validated": 1
+    ]
 }

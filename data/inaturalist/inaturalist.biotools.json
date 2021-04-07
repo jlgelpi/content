@@ -8,7 +8,7 @@
         "type": "public"
     },
     "homepage": "http://www.inaturalist.org/",
-    "lastUpdate": "2020-12-14T09:50:38Z",
+    "lastUpdate": "2020-12-14T09:50:37.905407Z",
     "name": "iNaturalist",
     "owner": "Pub2Tools",
     "publication": [
@@ -32,6 +32,5 @@
             "term": "Ontology and terminology",
             "uri": "http://edamontology.org/topic_0089"
         }
-    ],
-    "validated": 1
+    ]
 }

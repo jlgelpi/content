@@ -41,7 +41,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-12-02T16:09:41Z",
+    "lastUpdate": "2020-12-02T16:09:41.365756Z",
     "name": "Atropos",
     "owner": "Pub2Tools",
     "publication": [
@@ -64,6 +64,5 @@
             "term": "Sequence assembly",
             "uri": "http://edamontology.org/topic_0196"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -29,7 +29,7 @@
     "language": [
         "C"
     ],
-    "lastUpdate": "2020-12-14T14:29:20Z",
+    "lastUpdate": "2020-12-14T14:29:20.452905Z",
     "license": "Apache-2.0",
     "name": "kssd",
     "owner": "Pub2Tools",
@@ -54,6 +54,5 @@
             "term": "Phylogeny",
             "uri": "http://edamontology.org/topic_0084"
         }
-    ],
-    "validated": 1
+    ]
 }

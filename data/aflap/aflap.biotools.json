@@ -52,7 +52,7 @@
         "Perl",
         "R"
     ],
-    "lastUpdate": "2021-01-21T14:55:52Z",
+    "lastUpdate": "2021-01-21T14:55:51.903294Z",
     "license": "MIT",
     "name": "AFLAP",
     "owner": "Kigaard",
@@ -86,6 +86,5 @@
             "term": "Model organisms",
             "uri": "http://edamontology.org/topic_0621"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -25,7 +25,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-23T08:25:31Z",
+    "lastUpdate": "2020-12-23T08:25:31.295896Z",
     "name": "medExtractR",
     "owner": "Pub2Tools",
     "publication": [
@@ -49,6 +49,5 @@
             "term": "Medical imaging",
             "uri": "http://edamontology.org/topic_3384"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -21,7 +21,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-05T09:37:21Z",
+    "lastUpdate": "2021-01-05T09:37:20.519386Z",
     "license": "MIT",
     "name": "PathFlowAI",
     "owner": "Pub2Tools",
@@ -46,6 +46,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

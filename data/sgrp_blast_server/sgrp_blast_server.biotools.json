@@ -147,7 +147,7 @@
                         "name": "Louis E.J."
                     }
                 ],
-                "citationCount": 961,
+                "citationCount": 852,
                 "date": "2009-03-19T00:00:00Z",
                 "journal": "Nature",
                 "title": "Population genomics of domestic and wild yeasts"
@@ -181,6 +181,5 @@
             "term": "Genotype and phenotype",
             "uri": "http://edamontology.org/topic_0625"
         }
-    ],
-    "validated": 1
+    ]
 }

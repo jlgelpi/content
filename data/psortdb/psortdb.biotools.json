@@ -79,7 +79,7 @@
                         "name": "Brinkman F.S.L."
                     }
                 ],
-                "citationCount": 65,
+                "citationCount": 58,
                 "date": "2011-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "PSORTdb-an expanded, auto-updated, user-friendly protein subcellular localization database for Bacteria and Archaea"
@@ -112,7 +112,7 @@
                         "name": "Brinkman F.S.L."
                     }
                 ],
-                "citationCount": 113,
+                "citationCount": 110,
                 "date": "2005-01-01T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "PSORTdb: A protein subcellular localization database for bacteria"
@@ -136,6 +136,5 @@
             "term": "Membrane and lipoproteins",
             "uri": "http://edamontology.org/topic_0820"
         }
-    ],
-    "validated": 1
+    ]
 }

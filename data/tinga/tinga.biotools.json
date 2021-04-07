@@ -60,7 +60,6 @@
                         "name": "Saeys Y."
                     }
                 ],
-                "citationCount": 1,
                 "date": "2020-07-01T00:00:00Z",
                 "journal": "Bioinformatics (Oxford, England)",
                 "title": "TinGa: fast and flexible trajectory inference with Growing Neural Gas"
@@ -82,6 +81,5 @@
             "term": "Cell biology",
             "uri": "http://edamontology.org/topic_2229"
         }
-    ],
-    "validated": 1
+    ]
 }

@@ -153,7 +153,7 @@
                         "name": "Aebersold R."
                     }
                 ],
-                "citationCount": 3268,
+                "citationCount": 2871,
                 "date": "2003-09-01T00:00:00Z",
                 "journal": "Analytical Chemistry",
                 "title": "A statistical model for identifying proteins by tandem mass spectrometry"
@@ -177,6 +177,5 @@
             "term": "Statistics and probability",
             "uri": "http://edamontology.org/topic_2269"
         }
-    ],
-    "validated": 1
+    ]
 }

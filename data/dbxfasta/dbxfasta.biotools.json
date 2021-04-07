@@ -152,11 +152,7 @@
                     {
                         "name": "Bleasby A."
                     }
-                ],
-                "citationCount": 5637,
-                "date": "2000-06-01T00:00:00Z",
-                "journal": "Trends in Genetics",
-                "title": "EMBOSS: The European Molecular Biology Open Software Suite"
+                ]
             },
             "type": [
                 "Primary"
@@ -184,7 +180,6 @@
             "uri": "http://edamontology.org/topic_3071"
         }
     ],
-    "validated": 1,
     "version": [
         "r6"
     ]

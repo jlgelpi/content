@@ -75,6 +75,5 @@
     "toolType": [
         "Command-line tool",
         "Workflow"
-    ],
-    "validated": 1
+    ]
 }

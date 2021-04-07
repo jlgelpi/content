@@ -73,7 +73,7 @@
                         "name": "Pevzner P.A."
                     }
                 ],
-                "citationCount": 9,
+                "citationCount": 6,
                 "date": "2016-01-04T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "SpectroGene: A Tool for Proteogenomic Annotations Using Top-Down Spectra"
@@ -101,6 +101,5 @@
             "term": "Molecular genetics",
             "uri": "http://edamontology.org/topic_3321"
         }
-    ],
-    "validated": 1
+    ]
 }

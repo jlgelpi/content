@@ -25,7 +25,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-14T14:28:56Z",
+    "lastUpdate": "2020-12-14T14:28:56.251392Z",
     "name": "KRASi",
     "operatingSystem": [
         "Mac",
@@ -54,6 +54,5 @@
             "term": "Preclinical and clinical studies",
             "uri": "http://edamontology.org/topic_3379"
         }
-    ],
-    "validated": 1
+    ]
 }

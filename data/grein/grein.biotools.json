@@ -106,7 +106,7 @@
                         "name": "Medvedovic M."
                     }
                 ],
-                "citationCount": 15,
+                "citationCount": 5,
                 "date": "2019-12-01T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "GREIN: An Interactive Web Platform for Re-analyzing GEO RNA-seq Data"
@@ -134,6 +134,5 @@
             "term": "Microarray experiment",
             "uri": "http://edamontology.org/topic_3518"
         }
-    ],
-    "validated": 1
+    ]
 }

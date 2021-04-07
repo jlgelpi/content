@@ -8,7 +8,7 @@
         "type": "public"
     },
     "homepage": "http://ngly1graph.org/",
-    "lastUpdate": "2021-01-04T08:14:02Z",
+    "lastUpdate": "2021-01-04T08:14:01.627028Z",
     "link": [
         {
             "type": [
@@ -40,6 +40,5 @@
             "term": "Machine learning",
             "uri": "http://edamontology.org/topic_3474"
         }
-    ],
-    "validated": 1
+    ]
 }

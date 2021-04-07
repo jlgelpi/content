@@ -22,7 +22,7 @@
         "JavaScript",
         "Python"
     ],
-    "lastUpdate": "2021-01-14T14:50:52Z",
+    "lastUpdate": "2021-01-14T14:50:52.341378Z",
     "license": "MIT",
     "link": [
         {
@@ -51,6 +51,5 @@
             "term": "Imaging",
             "uri": "http://edamontology.org/topic_3382"
         }
-    ],
-    "validated": 1
+    ]
 }

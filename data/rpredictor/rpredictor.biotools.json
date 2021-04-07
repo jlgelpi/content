@@ -77,7 +77,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-11-03T07:31:32Z",
+    "lastUpdate": "2020-11-03T07:31:32.332874Z",
     "maturity": "Mature",
     "name": "rPredictor",
     "operatingSystem": [
@@ -152,7 +152,7 @@
                         "name": "Hoksza D."
                     }
                 ],
-                "citationCount": 8,
+                "citationCount": 7,
                 "date": "2017-11-15T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "TRAVeLer: A tool for template-based RNA secondary structure visualization"
@@ -175,7 +175,6 @@
             "uri": "http://edamontology.org/topic_0099"
         }
     ],
-    "validated": 1,
     "version": [
         "1.0"
     ]

@@ -18,6 +18,5 @@
     "homepage": "https://bioconductor.org/packages/release/bioc/html/scTHI.html",
     "lastUpdate": "2020-08-07T12:42:43Z",
     "name": "scTHI",
-    "owner": "michele.ceccarelli",
-    "validated": 1
+    "owner": "michele.ceccarelli"
 }

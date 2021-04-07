@@ -154,7 +154,7 @@
                         "name": "Deutsch E.W."
                     }
                 ],
-                "citationCount": 9,
+                "citationCount": 7,
                 "date": "2019-06-07T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "Proteomics Standards Initiative Extended FASTA Format"
@@ -182,6 +182,5 @@
             "term": "Protein modifications",
             "uri": "http://edamontology.org/topic_0601"
         }
-    ],
-    "validated": 1
+    ]
 }

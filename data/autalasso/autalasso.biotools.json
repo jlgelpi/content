@@ -70,7 +70,7 @@
                         "name": "Solkner J."
                     }
                 ],
-                "citationCount": 5,
+                "citationCount": 3,
                 "date": "2019-04-02T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "AUTALASSO: An automatic adaptive LASSO for genome-wide prediction"
@@ -98,6 +98,5 @@
             "term": "Agricultural science",
             "uri": "http://edamontology.org/topic_3810"
         }
-    ],
-    "validated": 1
+    ]
 }

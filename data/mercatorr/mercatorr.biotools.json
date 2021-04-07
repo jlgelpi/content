@@ -25,7 +25,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-23T08:46:26Z",
+    "lastUpdate": "2020-12-23T08:46:26.005906Z",
     "license": "Apache-2.0",
     "name": "MercatorR",
     "owner": "Niclaskn",
@@ -46,6 +46,5 @@
             "term": "Medical informatics",
             "uri": "http://edamontology.org/topic_3063"
         }
-    ],
-    "validated": 1
+    ]
 }

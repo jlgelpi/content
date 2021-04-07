@@ -24,7 +24,7 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2020-12-10T15:31:52Z",
+    "lastUpdate": "2020-12-10T15:31:51.802490Z",
     "license": "BSD-3-Clause",
     "maturity": "Emerging",
     "name": "PIPprofileR",
@@ -33,6 +33,5 @@
         "Linux",
         "Windows"
     ],
-    "owner": "thomasdenecker",
-    "validated": 1
+    "owner": "thomasdenecker"
 }

@@ -40,7 +40,7 @@
         "C++",
         "Python"
     ],
-    "lastUpdate": "2020-12-28T17:29:28Z",
+    "lastUpdate": "2020-12-28T17:29:28.005290Z",
     "name": "FastFeatGen",
     "owner": "Pub2Tools",
     "publication": [
@@ -64,6 +64,5 @@
             "term": "Model organisms",
             "uri": "http://edamontology.org/topic_0621"
         }
-    ],
-    "validated": 1
+    ]
 }

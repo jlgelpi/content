@@ -64,7 +64,7 @@
                         "name": "Linial M."
                     }
                 ],
-                "citationCount": 35,
+                "citationCount": 30,
                 "date": "2009-08-04T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "ClanTox: A classifier of short animal toxins"
@@ -96,6 +96,5 @@
             "term": "Gene transcripts",
             "uri": "http://edamontology.org/topic_3512"
         }
-    ],
-    "validated": 1
+    ]
 }

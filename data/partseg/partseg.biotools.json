@@ -43,7 +43,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-22T17:47:47Z",
+    "lastUpdate": "2021-01-22T17:47:47.176908Z",
     "license": "BSD-3-Clause",
     "link": [
         {
@@ -93,6 +93,5 @@
             "term": "Molecular interactions, pathways and networks",
             "uri": "http://edamontology.org/topic_0602"
         }
-    ],
-    "validated": 1
+    ]
 }

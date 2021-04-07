@@ -111,7 +111,7 @@
                         "name": "Maclean B."
                     }
                 ],
-                "citationCount": 116,
+                "citationCount": 109,
                 "date": "2014-01-01T00:00:00Z",
                 "journal": "Journal of Proteome Research",
                 "title": "Panorama: A targeted proteomics knowledge base"
@@ -132,6 +132,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

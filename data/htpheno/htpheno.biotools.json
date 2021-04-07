@@ -83,7 +83,7 @@
                         "name": "Schreiber F."
                     }
                 ],
-                "citationCount": 159,
+                "citationCount": 131,
                 "date": "2011-05-12T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "HTPheno: An image analysis pipeline for high-throughput plant phenotyping"
@@ -109,6 +109,5 @@
             "term": "Phenotyping",
             "uri": "http://edamontology.org/topic_0625"
         }
-    ],
-    "validated": 1
+    ]
 }

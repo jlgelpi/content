@@ -34,7 +34,7 @@
         }
     ],
     "homepage": "https://phosphomatics.com",
-    "lastUpdate": "2021-01-23T15:28:23Z",
+    "lastUpdate": "2021-01-23T15:28:22.651418Z",
     "name": "Phosphomatics",
     "owner": "zsmag19",
     "publication": [
@@ -64,6 +64,5 @@
             "term": "Molecular interactions, pathways and networks",
             "uri": "http://edamontology.org/topic_0602"
         }
-    ],
-    "validated": 1
+    ]
 }

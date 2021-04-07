@@ -22,7 +22,7 @@
         }
     ],
     "homepage": "http://usevision.org",
-    "lastUpdate": "2021-01-02T16:09:49Z",
+    "lastUpdate": "2021-01-02T16:09:49.082166Z",
     "name": "VISION",
     "owner": "Pub2Tools",
     "publication": [
@@ -43,6 +43,5 @@
             "term": "Sequencing",
             "uri": "http://edamontology.org/topic_3168"
         }
-    ],
-    "validated": 1
+    ]
 }

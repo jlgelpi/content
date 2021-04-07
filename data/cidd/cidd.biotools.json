@@ -83,7 +83,7 @@
                         "name": "Scheet P."
                     }
                 ],
-                "citationCount": 10,
+                "citationCount": 9,
                 "date": "2014-12-01T00:00:00Z",
                 "journal": "Molecular Cancer Therapeutics",
                 "title": "Cancer In Silico drug discovery: A systems biology tool for identifying candidate drugs to target specific molecular tumor subtypes"
@@ -111,6 +111,5 @@
             "term": "Small molecules",
             "uri": "http://edamontology.org/topic_0154"
         }
-    ],
-    "validated": 1
+    ]
 }

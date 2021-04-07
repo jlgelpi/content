@@ -42,7 +42,7 @@
         "MATLAB",
         "LabVIEW"
     ],
-    "lastUpdate": "2020-12-29T10:16:01Z",
+    "lastUpdate": "2020-12-29T10:16:01.264742Z",
     "license": "GPL-2.0",
     "link": [
         {
@@ -77,6 +77,5 @@
             "term": "Statistics and probability",
             "uri": "http://edamontology.org/topic_2269"
         }
-    ],
-    "validated": 1
+    ]
 }

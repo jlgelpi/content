@@ -22,7 +22,7 @@
         }
     ],
     "homepage": "https://www.aquariumtradedata.org/",
-    "lastUpdate": "2020-12-09T13:06:47Z",
+    "lastUpdate": "2020-12-09T13:06:47.251284Z",
     "name": "aquarium trade date data",
     "owner": "Pub2Tools",
     "publication": [
@@ -43,6 +43,5 @@
             "term": "Zoology",
             "uri": "http://edamontology.org/topic_3500"
         }
-    ],
-    "validated": 1
+    ]
 }

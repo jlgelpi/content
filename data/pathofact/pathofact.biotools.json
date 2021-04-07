@@ -33,7 +33,7 @@
         }
     ],
     "homepage": "https://git-r3lab.uni.lu/laura.denies/PathoFact",
-    "lastUpdate": "2021-01-22T18:21:46Z",
+    "lastUpdate": "2021-01-22T18:21:46.142899Z",
     "name": "PathoFact",
     "owner": "zsmag19",
     "publication": [
@@ -62,6 +62,5 @@
             "term": "Workflows",
             "uri": "http://edamontology.org/topic_0769"
         }
-    ],
-    "validated": 1
+    ]
 }

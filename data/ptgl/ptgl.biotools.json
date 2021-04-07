@@ -59,14 +59,14 @@
         }
     ],
     "homepage": "http://ptgl.uni-frankfurt.de/",
-    "lastUpdate": "2020-12-15T10:37:10Z",
+    "lastUpdate": "2018-12-10T12:58:59Z",
     "name": "PTGL",
     "operatingSystem": [
         "Linux",
         "Windows",
         "Mac"
     ],
-    "owner": "JNWolf",
+    "owner": "ELIXIR-EE",
     "publication": [
         {
             "metadata": {
@@ -85,7 +85,7 @@
                         "name": "Koch I."
                     }
                 ],
-                "citationCount": 9,
+                "citationCount": 8,
                 "date": "2009-11-10T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "PTGL: A database for secondary structure-based protein topologies"

@@ -112,7 +112,7 @@
                         "name": "Li D."
                     }
                 ],
-                "citationCount": 4,
+                "citationCount": 2,
                 "date": "2019-01-01T00:00:00Z",
                 "journal": "PeerJ",
                 "title": "OsteoporosAtlas: A human osteoporosis-related gene database"
@@ -141,6 +141,5 @@
             "term": "Geriatric medicine",
             "uri": "http://edamontology.org/topic_3399"
         }
-    ],
-    "validated": 1
+    ]
 }

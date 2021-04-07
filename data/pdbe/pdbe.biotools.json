@@ -142,7 +142,7 @@
                         "name": "Kleywegt G.J."
                     }
                 ],
-                "citationCount": 85,
+                "citationCount": 77,
                 "date": "2009-10-24T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "PDBe: Protein Data Bank in Europe"
@@ -166,6 +166,5 @@
             "term": "Proteins",
             "uri": "http://edamontology.org/topic_0078"
         }
-    ],
-    "validated": 1
+    ]
 }

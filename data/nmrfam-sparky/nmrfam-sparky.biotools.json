@@ -63,7 +63,7 @@
                         "name": "Markley J.L."
                     }
                 ],
-                "citationCount": 555,
+                "citationCount": 422,
                 "date": "2015-04-15T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "NMRFAM-SPARKY: Enhanced software for biomolecular NMR spectroscopy"
@@ -88,6 +88,5 @@
             "term": "Proteomics experiment",
             "uri": "http://edamontology.org/topic_3520"
         }
-    ],
-    "validated": 1
+    ]
 }

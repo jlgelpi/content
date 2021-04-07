@@ -10,7 +10,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2021-01-06T16:10:11Z",
+    "lastUpdate": "2021-01-06T16:10:10.942271Z",
     "link": [
         {
             "type": [
@@ -37,6 +37,5 @@
             "term": "Metagenomics",
             "uri": "http://edamontology.org/topic_3174"
         }
-    ],
-    "validated": 1
+    ]
 }
